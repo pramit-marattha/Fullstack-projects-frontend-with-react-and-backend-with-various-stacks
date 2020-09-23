@@ -1,7 +1,7 @@
 ![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
 
 ---
-
+## 1) Mini Code Editor
 ![code_editor](https://user-images.githubusercontent.com/37651620/93988236-32647980-fda8-11ea-9052-3238ea4a42b2.png)
 
 <span>Code inside the above image is from <a href="https://codepen.io/nocni_sovac/pen/poyabaB">
