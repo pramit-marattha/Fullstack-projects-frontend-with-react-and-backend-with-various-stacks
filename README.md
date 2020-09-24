@@ -12,7 +12,7 @@ on <a href="https://codepen.io">CodePen</a>.</span>
 ## It's Live 🎉 Visit here ==> https://mini-code-editor.netlify.app/
 ---
 
-## 2) Community Chat App
+## 2) Community Chat App with react and firebase
 ![community_chat](https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png)
 
 ## It's Live 🎉 Visit here ==> https://community-chat-app.netlify.app/
