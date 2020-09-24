@@ -10,6 +10,7 @@ on <a href="https://codepen.io">CodePen</a>.</span>
 
 
 ## It's Live 🎉 Visit here ==> https://mini-code-editor.netlify.app/
+## Checkout the Issue ==>http://bit.ly/mini-code-editor
 ---
 
 ## 2) Community Chat App with react and firebase
