@@ -9,6 +9,7 @@ import SignIn from "./components/SignIn";
 import SignOut from "./components/SignOut";
 
 firebase.initializeApp({
+  // Go to projectConsole --> project Setting -->add web app --> copy config file
   // apiKey: "", // Insert Your key Here
   // authDomain: "", // Insert Your authDomain Here
   // databaseURL: "", // Insert Your databaseURL Here
