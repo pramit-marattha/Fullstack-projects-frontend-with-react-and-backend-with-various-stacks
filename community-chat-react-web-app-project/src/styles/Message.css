@@ -1,0 +1,57 @@
+p {
+  max-width: 500px;
+  margin-bottom: 12px;
+  line-height: 24px;
+  padding: 10px 20px;
+  border-radius: 25px;
+  position: relative;
+  color: white;
+  text-align: center;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+}
+
+.sent {
+  flex-direction: row-reverse;
+}
+
+.sent p {
+  color: white;
+  background: linear-gradient(-45deg, #52ee7e, #c83ce7, #1aa4d6, #8e23d5);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  align-self: flex-end;
+}
+.received p {
+  color: white;
+  background: linear-gradient(-45deg, #ee7e52, #e74a3c, #d61aa4, #d52364);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  /* color: black; */
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 4px 7px;
+}
+
+ul,
+li {
+  text-align: left;
+  list-style: none;
+}
+
+.main-start-font {
+  max-width: 100%;
+  font-size: 50px;
+  border-radius: 25px;
+  color: white;
+  font-family: "Finger Paint", cursive;
+  text-align: center;
+  margin: auto;
+}
