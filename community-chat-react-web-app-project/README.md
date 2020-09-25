@@ -1,4 +1,7 @@
-![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
+![community_chat_home](https://user-images.githubusercontent.com/37651620/94143544-b2194380-fe8f-11ea-94e1-d05728ca8899.png)
+![community_chat](https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png)
+
+## It's Live 🎉 Visit here ==> https://community-chat-app.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

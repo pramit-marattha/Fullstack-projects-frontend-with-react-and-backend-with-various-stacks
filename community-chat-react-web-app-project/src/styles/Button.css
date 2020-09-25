@@ -1,0 +1,44 @@
+button {
+  /* background-color: #465676; */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 1.8rem;
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.sign-in {
+  color: rgb(60, 60, 61);
+  background-color: #8bc6ec;
+  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+  max-width: 100%;
+  border-radius: 30px;
+  margin: auto;
+}
+
+.sign-out {
+  border-radius: 30px;
+  color: white;
+  background-image: linear-gradient(
+    143.3deg,
+    rgba(216, 27, 96, 1) 33.1%,
+    rgba(237, 107, 154, 1) 74.9%
+  );
+  max-width: 100%;
+  align-items: left;
+}
+
+form button {
+  width: 20%;
+  border-radius: 5px;
+  font-family: "Finger Paint", cursive;
+  background-color: rgb(50, 198, 80);
+}
