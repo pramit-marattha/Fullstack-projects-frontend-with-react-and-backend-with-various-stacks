@@ -10,12 +10,20 @@ on <a href="https://codepen.io">CodePen</a>.</span>
 
 
 ## It's Live 🎉 Visit here ==> https://mini-code-editor.netlify.app/
-## pull req ==>http://bit.ly/mini-code-editor-app
+## PR ==>http://bit.ly/mini-code-editor-app
 ---
 
 ## 2) Community Chat App with react and firebase
 ![community_chat](https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png)
 
 ## It's Live 🎉 Visit here ==> https://community-chat-app.netlify.app/
-## pull req ==> http://bit.ly/community-chat-app
+## PR ==> http://bit.ly/community-chat-app
 ---
+
+## 3) Dark Mode Toggle 
+## Switch and button to toggle between dark and light mode
+![light_mode](https://user-images.githubusercontent.com/37651620/94393048-c43dff00-0179-11eb-9181-31e24e54ab8b.png)
+![dark_mode](https://user-images.githubusercontent.com/37651620/94393067-cef89400-0179-11eb-8488-fe54d93901b9.png)
+
+## It's Live 🎉 Visit here ==> https://dark-mode-switcher.netlify.app/
+## PR ==> http://bit.ly/dark-mode-toggle
