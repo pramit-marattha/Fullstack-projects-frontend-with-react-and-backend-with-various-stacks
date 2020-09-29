@@ -1,0 +1,28 @@
+@import "./Editor.css";
+@import "./Backstyl.css";
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
+html,
+body {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 10;
+  overflow: hidden;
+}
+
+.MuiListItem-root.Mui-selected {
+  background-color: #fafafa00;
+  background-image: linear-gradient(90deg, #74ebd500 0%, #74ebd500 100%);
+  border-radius: 20px;
+  font-family: "Share Tech Mono", monospace;
+  /* background-color: #666f96 !important; */
+}
+.no-note-selected {
+  font-size: 48px;
+  position: absolute;
+  top: 150px;
+  left: calc(50% - 1650px);
+  font-family: "Share Tech Mono", monospace;
+  /* color:rgba(165, 211, 195, 0.483); */
+}

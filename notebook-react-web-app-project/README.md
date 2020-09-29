@@ -1,4 +1,6 @@
-![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
+![notebook](https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png)
+
+## It's Live 🎉 Visit here ==> https://notebook-app.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

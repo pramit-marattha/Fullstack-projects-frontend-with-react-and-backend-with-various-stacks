@@ -1,0 +1,72 @@
+Button {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: rgb(106, 163, 137);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: inherit;
+}
+
+Button.newNoteBtn {
+  padding: 3em 2em;
+  border: 4px solid rgb(106, 163, 137);
+  border-radius: 1em;
+  background: rgb(205, 255, 232);
+  transform-style: preserve-3d;
+  transition: all 175ms cubic-bezier(0, 0, 1, 1);
+  padding-bottom: 55px;
+}
+Button.newNoteSubmitBtn {
+  padding: 3em 2em;
+  border: 4px solid rgb(106, 163, 137);
+  border-radius: 1em;
+  background: rgb(205, 255, 232);
+  transform-style: preserve-3d;
+  transition: all 175ms cubic-bezier(0, 0, 1, 1);
+  padding-top: 5px;
+  padding-bottom: 2px;
+}
+Button.newNoteBtn::before,
+Button.newNoteSubmitBtn::before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgb(150, 232, 195);
+  border-radius: inherit;
+  box-shadow: 0 0 0 2px rgb(121, 186, 156), 0 0.75em 0 0 rgb(106, 163, 137);
+  transform: translate3d(0, 0.75em, -1em);
+  transition: all 175ms cubic-bezier(0, 0, 1, 1);
+}
+
+Button.newNoteBtn:hover,
+Button.newNoteSubmitBtn:hover {
+  background: rgb(187, 232, 211);
+  transform: translate(0, 0.375em);
+}
+
+Button.newNoteBtn:hover::before,
+Button.newNoteSubmitBtn:hover::before {
+  transform: translate3d(0, 0.75em, -1em);
+}
+
+Button.newNoteBtn:active,
+Button.newNoteSubmitBtn:active {
+  transform: translate(0em, 0.75em);
+}
+
+Button.newNoteBtn:active::before,
+Button.newNoteSubmitBtn:active::before {
+  transform: translate3d(0, 0, -1em);
+  box-shadow: 0 0 0 2px rgb(121, 186, 156), 0 0.25em 0 0 rgb(121, 186, 156);
+}
