@@ -27,3 +27,11 @@ on <a href="https://codepen.io">CodePen</a>.</span>
 
 ## It's Live 🎉 Visit here ==> https://dark-mode-switcher.netlify.app/
 ## PR ==> http://bit.ly/dark-mode-toggle
+---
+## 4) Notetaking notebook app
+![notebook](https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png)
+
+## It's Live 🎉 Visit here ==> https://notebook-app.netlify.app/
+
+## PR => http://bit.ly/notebook-app
+---
