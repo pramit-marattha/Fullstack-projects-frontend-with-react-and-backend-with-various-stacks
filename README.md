@@ -35,3 +35,7 @@ on <a href="https://codepen.io">CodePen</a>.</span>
 
 ## PR => http://bit.ly/notebook-app
 ---
+![conference_schedule](https://user-images.githubusercontent.com/37651620/94646070-2844fc80-030d-11eb-8fe5-cdc881f88d8c.png)
+
+## It's Live 🎉 Visit here ==> https://conference-schedule-app.netlify.app/
+---
