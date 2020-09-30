@@ -1,0 +1,27 @@
+#root {
+  height: 100%;
+  box-sizing: border-box;
+  font-family: "Share Tech Mono", monospace;
+}
+.app-container {
+  height: 100%;
+  box-sizing: border-box;
+  font-family: "Share Tech Mono", monospace;
+}
+.quill {
+  height: 100%;
+  box-sizing: border-box;
+  width: calc(100% - 300px);
+  float: right;
+  font-family: "Share Tech Mono", monospace;
+}
+.ql-container {
+  box-sizing: border-box;
+  height: calc(100% - 42px);
+  overflow-y: scroll;
+  font-family: "Share Tech Mono", monospace;
+}
+.ql-editor {
+  cursor: text;
+  font-family: "Share Tech Mono", monospace;
+}
