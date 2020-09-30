@@ -22,15 +22,6 @@ function App() {
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
       <Paper style={{ height: "100vh", width: "100%" }}>
         <Typography variant="h1">
-          {/* <Button
-            variant="contained"
-            color="primary"
-            onClick={() => setDarkMode(!darkMode)}
-          >
-            <span role="img" aria-label="sun">
-              ☀️
-            </span>
-          </Button> */}
           Awesome Dark Mode &nbsp;
           <Button
             variant="contained"
