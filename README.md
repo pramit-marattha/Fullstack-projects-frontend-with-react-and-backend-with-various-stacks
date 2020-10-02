@@ -40,3 +40,8 @@ on <a href="https://codepen.io">CodePen</a>.</span>
 
 ## It's Live 🎉 Visit here ==> https://conference-schedule-app.netlify.app/
 ---
+
+## 6) Tetris React Game
+![image](https://user-images.githubusercontent.com/37651620/94886472-fd84b080-0492-11eb-9668-db1f2a612b8c.png)
+
+## It's Live 🎉 Visit here ==> https://tetramino-tetris.netlify.app/
