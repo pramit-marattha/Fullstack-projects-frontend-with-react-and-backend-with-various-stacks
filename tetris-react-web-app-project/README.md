@@ -1,4 +1,7 @@
-![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
+![image](https://user-images.githubusercontent.com/37651620/94886444-ef369480-0492-11eb-8ff6-31c0dc345f02.png)
+![image](https://user-images.githubusercontent.com/37651620/94886472-fd84b080-0492-11eb-9668-db1f2a612b8c.png)
+
+## It's Live 🎉 Visit here ==> https://tetramino-tetris.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
