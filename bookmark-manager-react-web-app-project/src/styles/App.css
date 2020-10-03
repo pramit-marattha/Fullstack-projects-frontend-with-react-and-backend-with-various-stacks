@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Share Tech Mono", monospace;
+}
+
+.paintFont {
+  color: white;
+  font-size: 40px;
+  font-family: "Finger Paint", cursive;
+}
+.paintFontBookmark {
+  color: white;
+  font-size: 40px;
+  font-family: "Finger Paint", cursive;
+}
+
+.navigationPannel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  left: 0;
+  right: 0;
+  height: 90px;
+  padding: 0 5%;
+  background: #333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navigationPannel ul {
+  list-style: none;
+  padding: 0;
+  color: white;
+}
+
+.navigationPannel ul li:hover {
+  cursor: pointer;
+}
+
+.navigationPannel a {
+  text-decoration: none;
+}
+
+main {
+  display: flex;
+  margin-top: 60px;
+  max-height: calc(100vh - 60px);
+}
+
+.leftContainer {
+  display: flex;
+  flex-basis: 50%;
+  flex-direction: column;
+  align-items: center;
+  background-color: #212121;
+  height: calc(100vh - 60px);
+}
+
+.leftContainer img {
+  width: 50%;
+}
+
+.leftContainer form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  width: 50%;
+  height: 400px;
+  margin: 50px auto 0 auto;
+  background: #333;
+  padding: 1.5em;
+}
+
+.leftContainer form div {
+  display: flex;
+  flex-direction: column;
+}
+
+.leftContainer form .formTitle {
+  margin: 0;
+  color: white;
+}
+
+.leftContainer form .formLabel {
+  color: white;
+}
+
+.leftContent form input {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 0.2em;
+}
+
+.leftContainer form button {
+  margin-top: 2em;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: #1db954;
+  color: black;
+}
+
+.rightContainer {
+  background: #56a28a;
+  height: calc(100vh - 60px);
+  flex-basis: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: scroll;
+  color: white;
+}
+
+.rightContainer .bookmarkCard {
+  background: #191414;
+  width: 60%;
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  border-radius: 25px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 1.9);
+  flex-shrink: 0;
+  color: white;
+}
+
+.rightContainer .bookmarkCardImage {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 80px;
+  width: 190px;
+}
+.rightContainer .bookmarkCardLink {
+  margin-left: 5px;
+}
