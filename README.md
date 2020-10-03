@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png" />
+![ful_stack](https://user-images.githubusercontent.com/37651620/95001409-7b5ad000-05e9-11eb-80ae-21a41ac9afef.png)
+
 ---
 
 ## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/issues) [![Contrib](http://hits.dwyl.com/pramit-marattha/https://githubcom/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-s.svg)](http://hits.dwyl.com/pramit-marattha/https://githubcom/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-s)
