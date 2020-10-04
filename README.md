@@ -33,11 +33,9 @@
 | It's Live 🎉 Visit here ==> https://community-chat-app.netlify.app/ |
  
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 # 3) Dark Mode Toggle 
@@ -47,11 +45,9 @@
 | It's Live 🎉 Visit here ==> https://dark-mode-switcher.netlify.app/ |
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 #  4) Notetaking notebook app 
@@ -61,11 +57,9 @@
 | It's Live 🎉 Visit here ==> https://notebook-app.netlify.app/ |
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 # 5) Conference Schedule App  
@@ -75,11 +69,9 @@
 | It's Live 🎉 Visit here ==> https://conference-schedule-app.netlify.app/ |
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 # 6) Tetris React Game
@@ -89,11 +81,9 @@
 |  It's Live 🎉 Visit here ==> https://tetramino-tetris.netlify.app/ |
 
 <br/>
-<br/>
 
 ---
 
-<br/>
 <br/>
 
 #  7) Bookmark App
@@ -103,7 +93,25 @@
 |It's Live 🎉 Visit here ==>https://book-mark-react.netlify.app/ |
 
 <br/>
+
+---
+<br/>
+
+# 8) Fetch Movies 
+| Fetch Movies |
+|<img src="https://user-images.githubusercontent.com/37651620/95007974-4b391e80-0635-11eb-91fb-040e6b55bfcf.png" width="900"/>|
+| It's Live 🎉 Visit here ==>https://fetch-movies.netlify.app/  |
+
 <br/>
 
 ---
+<br/>
+# 9) Grocery List Manager
+| Grocery List Manager |
+|<img src="https://user-images.githubusercontent.com/37651620/95011170-8136cc80-064e-11eb-9b4b-8200b1fdf290.png" width="900"/>|
+| It's Live 🎉 Visit here ==> https://grocery-list-manager.netlify.app/ |
 
+<br/>
+
+---
+<br/>
