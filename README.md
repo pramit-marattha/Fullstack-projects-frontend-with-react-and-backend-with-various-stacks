@@ -99,6 +99,7 @@
 
 # 8) Fetch Movies 
 | Fetch Movies |
+|:---------------:|
 |<img src="https://user-images.githubusercontent.com/37651620/95007974-4b391e80-0635-11eb-91fb-040e6b55bfcf.png" width="900"/>|
 | It's Live 🎉 Visit here ==>https://fetch-movies.netlify.app/  |
 
@@ -108,6 +109,7 @@
 <br/>
 # 9) Grocery List Manager
 | Grocery List Manager |
+|:---------------:|
 |<img src="https://user-images.githubusercontent.com/37651620/95011170-8136cc80-064e-11eb-9b4b-8200b1fdf290.png" width="900"/>|
 | It's Live 🎉 Visit here ==> https://grocery-list-manager.netlify.app/ |
 
