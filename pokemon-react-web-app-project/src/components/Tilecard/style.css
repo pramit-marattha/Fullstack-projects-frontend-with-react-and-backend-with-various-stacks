@@ -1,0 +1,84 @@
+p {
+  margin: 0;
+}
+
+.card {
+  border-radius: 45px;
+  background: #d9dee7;
+  box-shadow: inset 8px 8px 7px #a1a4ab, inset -8px -8px 7px #ffffff;
+}
+
+.card-image {
+  padding: 5px 10px;
+  text-align: center;
+}
+
+.card-types {
+  display: flex;
+  justify-content: center;
+}
+
+.card-type-name {
+  padding: 5px 10px;
+  margin: 10px 10px 10px 0;
+  display: block;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: var(--light);
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text);
+  background-size: 100% 100%;
+  box-shadow: 0 0 0 7px var(--light) inset;
+  margin-bottom: 15px;
+}
+
+.card-type-name:hover {
+  background-image: linear-gradient(
+    145deg,
+    transparent 10%,
+    var(--dark) 10% 20%,
+    transparent 20% 30%,
+    var(--dark) 30% 40%,
+    transparent 40% 50%,
+    var(--dark) 50% 60%,
+    transparent 60% 70%,
+    var(--dark) 70% 80%,
+    transparent 80% 90%,
+    var(--dark) 90% 100%
+  );
+  animation: back 3s linear infinite;
+}
+
+@keyframes back {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 400px 0;
+  }
+}
+
+.card-name {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-weight: 800;
+  color: black;
+}
+
+.card-info {
+  margin-left: 10px;
+}
+
+.card-data {
+  padding-bottom: 10px;
+}
+
+.card-data .title {
+  font-weight: 700;
+}
