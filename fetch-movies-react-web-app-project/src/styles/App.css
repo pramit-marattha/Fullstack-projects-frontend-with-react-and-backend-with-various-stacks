@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://cdn.wallpapersafari.com/62/56/HeEh3l.jpg");
+}
+
+header {
+  padding: 80px 15px 0px;
+}
+
+header h1 {
+  color: #1db954;
+  font-size: 78px;
+  font-weight: 500;
+  text-align: center;
+}
+
+main {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 15px;
+}
+
+.searchbox {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  border: none;
+  outline: none;
+  background: none;
+  background-color: #535353;
+  border-radius: 19px;
+  transition: 0.4s ease-out;
+}
+
+.searchbox:focus {
+  box-shadow: 0px 0px 10px 13px #1db954;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px -25px;
+  background-color: #223343;
+  border-radius: 19px;
+}
+
+.results .result {
+  width: 33%;
+  min-width: 250px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.result .result img {
+  display: block;
+  width: 100%;
+}
+
+.results .result h3 {
+  color: #1db954;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px;
+  background: #446465;
+  flex: 1 1 100%;
+  transition: 0.4s ease-in-out;
+  border-radius: 4px;
+}
+
+.results .result:hover h3 {
+  background: #535353;
+  color: #223343;
+}
