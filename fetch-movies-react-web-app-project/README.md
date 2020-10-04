@@ -1,4 +1,6 @@
-![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
+![fetch_movies](https://user-images.githubusercontent.com/37651620/95007974-4b391e80-0635-11eb-91fb-040e6b55bfcf.png)
+
+## It's Live 🎉 Visit here ==>https://fetch-movies.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
