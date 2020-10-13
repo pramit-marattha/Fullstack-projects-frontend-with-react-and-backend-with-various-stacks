@@ -4,8 +4,9 @@
 
 
 ![project_full](https://user-images.githubusercontent.com/37651620/95839311-986a6e00-0d62-11eb-9eb1-b9710f6f74bb.png)
-It's Live 🎉 Visit here ==> https://fullstack-timeline.netlify.app/
+## It's Live 🎉 Visit here ==> https://fullstack-timeline.netlify.app/
 
+---
 
 | ![m](https://user-images.githubusercontent.com/37651620/93988236-32647980-fda8-11ea-9052-3238ea4a42b2.png) | ![](https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png) | ![](https://user-images.githubusercontent.com/37651620/94997593-f2816b80-05cb-11eb-8b99-8fa1fa71fada.png) | ![](https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png)  |
 |:------:|:-------:|:--------:|:--------:|
