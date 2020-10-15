@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Share Tech Mono", monospace;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+body {
+  background-color: rgb(216, 204, 204);
+}
+
+.App {
+  padding: 30px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 45px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: black;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.total-budget {
+  color: var(--grey);
+  font-size: 35px;
+  font-weight: 900;
+  background-color: #dfdfdf;
+  padding: 5px 25px;
+  border-radius: 20px;
+  color: rgb(6, 169, 169);
+}
+
+.budget-form {
+  display: block;
+  margin: 15px;
+  position: relative;
+}
+
+.budget-form:after {
+  content: "";
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 0;
+  background-image: linear-gradient(to right, var(--primary), var(--secondary));
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+.budget-form:focus-within:after {
+  top: -3px;
+  left: -3px;
+  right: -3px;
+  bottom: -3px;
+}
+.form-inner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  transition: 0.4s;
+  border-radius: 8px;
+}
+.form-inner input {
+  font-size: 18px;
+  padding: 10px 15px;
+  background-color: #fff;
+}
+
+.form-inner input[type="text"] {
+  border-radius: 8px 0px 0px 8px;
+  flex: 1 1 100%;
+}
+.form-inner input[type="date"] {
+  border-radius: 0px;
+  min-width: 200px;
+}
+.form-inner input[type="submit"] {
+  border-radius: 0px 8px 8px 0px;
+  cursor: pointer;
+
+  background-image: linear-gradient(
+    to right,
+    var(--primary) 50%,
+    var(--primary) 50%,
+    var(--secondary)
+  );
+  background-size: 200%;
+  background-position: 0%;
+
+  color: #313131;
+  font-weight: 600;
+  text-transform: uppercase;
+
+  transition: 0.4s;
+}
+
+.form-inner input[type="submit"]:hover {
+  background-position: 100%;
+  color: #fff;
+}
+
+.budget-list {
+  padding: 15px;
+}
+
+.budget-list .budget-item {
+  position: relative;
+  padding: 30px 15px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  display: flex;
+  transition: 0.4s;
+  padding-left: 75px;
+  box-shadow: 5px 5px 5px rgba(39, 37, 37, 0.6);
+}
+
+.budget-list .budget-item .remove-item {
+  position: absolute;
+  width: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+
+  cursor: pointer;
+  display: block;
+  color: var(--light);
+  font-weight: 600;
+  background-color: var(--alert);
+  border-radius: 8px 0px 0px 8px;
+  transition: 0.2s;
+}
+
+.budget-list .budget-item:hover .remove-item {
+  width: 350px;
+}
+
+.budget-list .budget-item .desc {
+  flex: 1 1 100%;
+}
+
+.budget-list .budget-item .price,
+.budget-list .budget-item .date {
+  min-width: 125px;
+}
+.budget-list .budget-item:hover {
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1);
+}
