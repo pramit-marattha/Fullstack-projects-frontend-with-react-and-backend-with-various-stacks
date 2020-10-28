@@ -1,6 +1,6 @@
-![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
+![screencapture-newsletter-react-app-netlify-app-2020-10-28-20_59_09](https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## It's Live 🎉 Visit here ==> https://newsletter-react-app.netlify.app/
 
 ## Available Scripts
 

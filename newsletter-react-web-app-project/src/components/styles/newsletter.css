@@ -1,0 +1,39 @@
+.form__manage {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  position: relative;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  padding: 58px;
+  margin: 48px auto;
+  max-width: 90%;
+  width: 650px;
+}
+
+.Title {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  margin: 0 0 10px 0;
+  /* text-align: left; */
+  word-break: break-word;
+}
+
+.paragraph {
+  display: flex;
+  @media all and (max-width: 500px) {
+    flex-direction: column;
+  }
+}
+
+.messages {
+  font-size: 28px;
+  font-weight: 700;
+  height: 40px;
+  line-height: 20px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  display: inline-block;
+}
