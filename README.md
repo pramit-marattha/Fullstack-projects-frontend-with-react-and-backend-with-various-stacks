@@ -150,3 +150,15 @@
 ---
 <br/>
 
+
+# 12) Newsletter app.
+
+| Awesome Newsletter App |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://newsletter-react-app.netlify.app/ |
+
+<br/>
+
+---
+<br/>
