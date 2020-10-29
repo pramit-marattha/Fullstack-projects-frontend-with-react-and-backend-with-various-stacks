@@ -1,9 +1,9 @@
 ![ful_stack](https://user-images.githubusercontent.com/37651620/95001409-7b5ad000-05e9-11eb-80ae-21a41ac9afef.png)
 
-## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/issues) [![Contrib](http://hits.dwyl.com/pramit-marattha/https://githubcom/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-s.svg)](http://hits.dwyl.com/pramit-marattha/https://githubcom/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-s)
+## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/issues) [![Contrib](http://hits.dwyl.com/pramit-marattha/https://githubcom/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-s.svg)](http://hits.dwyl.com/pramit-marattha/https://githubcom/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-s)![GitHub All Releases](https://img.shields.io/github/downloads/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/total)
 
 
-![Full_project_timeline](https://user-images.githubusercontent.com/37651620/96118818-c7701380-0f0b-11eb-848e-1cd877d5a613.png)
+![Full_project_timeline](https://user-images.githubusercontent.com/37651620/97527942-a829b980-19d4-11eb-9695-ceec17fd3855.png)
 ## It's Live 🎉 Visit here ==> https://fullstack-timeline.netlify.app/
 
 ---
