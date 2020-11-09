@@ -4,7 +4,7 @@
 
 ---
 
-![Full_project_timeline](https://user-images.githubusercontent.com/37651620/97527942-a829b980-19d4-11eb-9695-ceec17fd3855.png)
+![Full_project_timeline](https://user-images.githubusercontent.com/37651620/98594243-7da4fe00-22fc-11eb-8135-2a2fbca15cfb.png)
 ## It's Live 🎉 Visit here ==> https://fullstack-timeline.netlify.app/
 
 ---
@@ -158,6 +158,18 @@
 |:---------------:|
 | <img src="https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png" width="900"/> |
 | It's Live 🎉 Visit here ==> https://newsletter-react-app.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 13) Lofi Live music Player App.
+
+| Lofi Live music Player App |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/98583627-c6ed5180-22ec-11eb-999d-c6921f61ac93.png" width="900"/> |
+| It's Live 🎉 Visit here ==>  https://music-player-react.netlify.app/ |
 
 <br/>
 
