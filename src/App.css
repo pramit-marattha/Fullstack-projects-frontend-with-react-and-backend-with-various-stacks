@@ -1,0 +1,202 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.c-player {
+  display: block;
+  padding: 40px;
+  border-radius: 35px;
+  background-color: rgba(226, 102, 181, 0.9);
+  background-image: linear-gradient(315deg, #fe7bb0 0%, #ff748b 74%);
+  box-shadow: 0 20px 50px rgba(226, 102, 181, 0.9);
+}
+
+.c-player > h4 {
+  color: #c4125c;
+  text-shadow: 2px 2px #510202;
+  /* font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 450;
+  text-align: center;
+  display: flex; */
+  justify-content: center;
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.c-player > h4:hover {
+  color: #fff;
+}
+
+.c-player > p {
+  color: rgb(56, 52, 52);
+  font-size: 14px;
+  font-weight: 550;
+  text-align: center;
+}
+
+.c-player--details .details-img {
+  position: relative;
+  width: fit-content;
+  margin: 30px auto;
+}
+
+.c-player--details .details-img img {
+  display: block;
+  margin: 0px auto;
+  width: 100%;
+  max-width: 240px;
+  border-radius: 30%;
+}
+
+.c-player--details .details-img img:hover {
+  display: block;
+  margin: 0px auto;
+  width: 100%;
+  max-width: 240px;
+  border-radius: 30%;
+  box-shadow: 5px 5px rgba(98, 0, 41, 0.4), 10px 10px rgba(98, 0, 57, 0.3),
+    15px 15px rgba(98, 0, 57, 0.2), 20px 20px rgba(98, 0, 69, 0.1),
+    25px 25px rgba(98, 0, 33, 0.05);
+  transform: scale(1.2);
+  transition: all 0.3s;
+}
+
+.c-player--details .details-title {
+  color: #eee;
+  font-size: 28px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8),
+    -2px -2px 4px rgba(255, 255, 255, 0.4);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.c-player--details .details-artist {
+  color: #aaa;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8),
+    -2px -2px 4px rgba(255, 255, 255, 0.4);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.c-player--controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.c-player--controls .play-btn {
+  display: flex;
+  margin: 0 30px;
+  padding: 20px;
+  border-radius: 20%;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.8),
+    -4px -4px 10px rgba(255, 255, 255, 0.299),
+    inset -4px -4px 10px rgba(0, 0, 0, 0.544),
+    inset 4px 4px 10px rgba(255, 255, 255, 0.4);
+  border: none;
+  outline: none;
+  background-color: rgba(228, 82, 174, 0.9);
+  color: #fff;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.c-player--controls .skip-btn {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #888;
+  font-size: 18px;
+}
+
+.weirdShape {
+  width: 1000px;
+  height: 1005px;
+  position: absolute;
+  z-index: -1;
+  top: -23%;
+  left: 50%;
+  margin-left: -500px;
+  margin-top: -500px;
+  border-radius: 37%;
+  background: rgba(255, 255, 255, 0.857);
+  animation: weirdShape 20s infinite linear;
+}
+
+@keyframes weirdShape {
+  from {
+    transform: rotate(0deg);
+  }
+  from {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes floating {
+  0% {
+    bottom: 50%;
+    right: 10%;
+  }
+  50% {
+    bottom: 50%;
+    right: 50%;
+  }
+  100% {
+    bottom: 50%;
+    right: 90%;
+  }
+}
+
+.text-anim {
+  font-size: 14px;
+  font-weight: 550;
+  color: transparent;
+  text-align: center;
+  animation: effect 3s linear infinite;
+}
+
+@keyframes effect {
+  0% {
+    background: linear-gradient(#00806d, #00e5ff);
+    -webkit-background-clip: text;
+  }
+  25% {
+    background: linear-gradient(#005e80, #00aaff);
+    -webkit-background-clip: text;
+  }
+  50% {
+    background: linear-gradient(#004480, #0073ff);
+    -webkit-background-clip: text;
+  }
+  75% {
+    background: linear-gradient(#0b0080, #7300ff);
+    -webkit-background-clip: text;
+  }
+  100% {
+    background: linear-gradient(#3ce7d7, #000fff);
+    -webkit-background-clip: text;
+  }
+}
