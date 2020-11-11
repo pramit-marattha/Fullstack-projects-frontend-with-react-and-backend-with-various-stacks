@@ -4,7 +4,7 @@
 
 ---
 
-![Full_project_timeline](https://user-images.githubusercontent.com/37651620/98594243-7da4fe00-22fc-11eb-8135-2a2fbca15cfb.png)
+![Full_project_timeline](https://user-images.githubusercontent.com/37651620/98842493-c7632500-2471-11eb-94ea-5ce4e196bf71.png)
 ## It's Live 🎉 Visit here ==> https://fullstack-timeline.netlify.app/
 
 ---
