@@ -199,3 +199,18 @@
 
 ---
 <br/>
+
+---
+<br/>
+
+# 16) React moodboard (drag and drop images).
+
+| MoodBoard  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101074345-bb7a0700-35c8-11eb-9bde-c9d9b12c63ba.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://moodboard-dnd.netlify.app/ |
+
+<br/>
+
+---
+<br/>
