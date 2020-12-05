@@ -226,3 +226,14 @@
 
 ---
 <br/>
+
+# 18) Wiki Search.
+
+| Wiki Search  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101260703-b6988d00-3759-11eb-83dd-1b3b9242f658.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://react-wiki-search.netlify.app/ |
+
+<br/>
+---
+<br/>
