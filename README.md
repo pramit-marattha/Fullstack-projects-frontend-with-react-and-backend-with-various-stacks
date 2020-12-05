@@ -214,3 +214,15 @@
 
 ---
 <br/>
+
+# 16) React Admin Dashboard.
+
+| Admin-Dashboard  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101245506-7aebcc00-3735-11eb-9bc4-94dab2475dc1.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://simple-admin-dashboard.netlify.app/#/login |
+
+<br/>
+
+---
+<br/>
