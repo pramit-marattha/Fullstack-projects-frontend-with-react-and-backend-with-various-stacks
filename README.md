@@ -1,53 +1,239 @@
-![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
+![ful_stack](https://user-images.githubusercontent.com/37651620/95001409-7b5ad000-05e9-11eb-80ae-21a41ac9afef.png)
+## [![Netlify Status](https://api.netlify.com/api/v1/badges/a688ebcd-9707-471d-8854-49528c857951/deploy-status)](https://app.netlify.com/sites/fullstack-timeline/deploys)
+## ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffullstack-timeline.netlify.app%2F) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/issues)  ![GitHub issues by-label](https://img.shields.io/github/issues/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/enhancement) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) ![GitHub milestones](https://img.shields.io/github/milestones/all/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) ![GitHub last commit](https://img.shields.io/github/last-commit/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) ![GitHub contributors](https://img.shields.io/github/contributors/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) ![Maintenance](https://img.shields.io/maintenance/yes/2020) [![Gitter](https://badges.gitter.im/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/community.svg)](https://gitter.im/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)   ![GitHub repo size](https://img.shields.io/github/repo-size/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks)  
 
 ---
-## 1) Mini Code Editor
-![code_editor](https://user-images.githubusercontent.com/37651620/93988236-32647980-fda8-11ea-9052-3238ea4a42b2.png)
 
-<span>Code inside the above image is from <a href="https://codepen.io/nocni_sovac/pen/poyabaB">
-Codepen </a> by Zarko Rvovic (<a href="https://codepen.io/nocni_sovac">@nocni_sovac</a>)
-on <a href="https://codepen.io">CodePen</a>.</span>
+![Full_project_timeline](https://user-images.githubusercontent.com/37651620/98842493-c7632500-2471-11eb-94ea-5ce4e196bf71.png)
+## It's Live 🎉 Visit here ==> https://fullstack-timeline.netlify.app/
 
-
-## It's Live 🎉 Visit here ==> https://mini-code-editor.netlify.app/
-## PR ==>http://bit.ly/mini-code-editor-app
 ---
 
-## 2) Community Chat App with react and firebase
-![community_chat](https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png)
+| ![m](https://user-images.githubusercontent.com/37651620/93988236-32647980-fda8-11ea-9052-3238ea4a42b2.png) | ![](https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png) | ![](https://user-images.githubusercontent.com/37651620/94997593-f2816b80-05cb-11eb-8b99-8fa1fa71fada.png) | ![](https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png)  |
+|:------:|:-------:|:--------:|:--------:|
+| ![](https://user-images.githubusercontent.com/37651620/94646070-2844fc80-030d-11eb-8fe5-cdc881f88d8c.png) | ![](https://user-images.githubusercontent.com/37651620/94886472-fd84b080-0492-11eb-9668-db1f2a612b8c.png) | ![](https://user-images.githubusercontent.com/37651620/94985851-ab6a8a80-0579-11eb-8f51-fa35d314c588.png) | ![](https://user-images.githubusercontent.com/37651620/95007974-4b391e80-0635-11eb-91fb-040e6b55bfcf.png) |
+| ![](https://user-images.githubusercontent.com/37651620/95011170-8136cc80-064e-11eb-9b4b-8200b1fdf290.png) |![pokemon_info](https://user-images.githubusercontent.com/37651620/95025734-aefe2e80-06ab-11eb-9915-ffad4e7014ed.png) |<img src="https://user-images.githubusercontent.com/37651620/96116885-e91bcb80-0f08-11eb-8653-b0dbb082f68c.png" width="120" /> | <img src="https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png" width="120" />|
 
-## It's Live 🎉 Visit here ==> https://community-chat-app.netlify.app/
-## PR ==> http://bit.ly/community-chat-app
+
+
+---
+# 1) Mini Code Editor
+##### <span>Code inside the below image is from <a href="https://codepen.io/nocni_sovac/pen/poyabaB"> Codepen </a> by Zarko Rvovic (<a href="https://codepen.io/nocni_sovac">@nocni_sovac</a>) on <a href="https://codepen.io">CodePen</a>.</span>
+
+|  Mini Code Editor ( [PR](http://bit.ly/mini-code-editor-app ) ) |
+|:------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/93988236-32647980-fda8-11ea-9052-3238ea4a42b2.png" width="900" />  |
+| <br/> It's Live 🎉 Visit here ==> https://mini-code-editor.netlify.app/ |
+
+<br/>
+<br/>
+
 ---
 
-## 3) Dark Mode Toggle 
-## Switch and button to toggle between dark and light mode
-![light_mode](https://user-images.githubusercontent.com/37651620/94393048-c43dff00-0179-11eb-9181-31e24e54ab8b.png)
-![dark_mode](https://user-images.githubusercontent.com/37651620/94393067-cef89400-0179-11eb-8488-fe54d93901b9.png)
+<br/>
+<br/>
 
-## It's Live 🎉 Visit here ==> https://dark-mode-switcher.netlify.app/
-## PR ==> http://bit.ly/dark-mode-toggle
----
-## 4) Notetaking notebook app
-![notebook](https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png)
+# 2) Community Chat App with react and firebase
+| Community Chat App with react and firebase ( [PR]( http://bit.ly/community-chat-app  ) ) |
+|:-------------:|
+|<img src="https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://community-chat-app.netlify.app/ |
+ 
+<br/>
 
-## It's Live 🎉 Visit here ==> https://notebook-app.netlify.app/
-
-## PR => http://bit.ly/notebook-app
----
-## 5) Conference Schedule App
-![conference_schedule](https://user-images.githubusercontent.com/37651620/94646070-2844fc80-030d-11eb-8fe5-cdc881f88d8c.png)
-
-## It's Live 🎉 Visit here ==> https://conference-schedule-app.netlify.app/
 ---
 
-## 6) Tetris React Game
-![image](https://user-images.githubusercontent.com/37651620/94886472-fd84b080-0492-11eb-9668-db1f2a612b8c.png)
+<br/>
 
-## It's Live 🎉 Visit here ==> https://tetramino-tetris.netlify.app/
+# 3) Dark Mode Toggle 
+|  Dark Mode Toggle ( [PR](http://bit.ly/dark-mode-toggle) )   |  
+|:----------:|
+|<img src="https://user-images.githubusercontent.com/37651620/94997593-f2816b80-05cb-11eb-8b99-8fa1fa71fada.png" width="900"/>|
+| It's Live 🎉 Visit here ==> https://dark-mode-switcher.netlify.app/ |
+
+<br/>
+
 ---
-## 7) Bookmark App
-![image](https://user-images.githubusercontent.com/37651620/94985851-ab6a8a80-0579-11eb-8f51-fa35d314c588.png)
 
-## It's Live 🎉 Visit here ==>https://book-mark-react.netlify.app/
+<br/>
 
+#  4) Notetaking notebook app 
+|  Notetaking notebook app  ( [PR]( http://bit.ly/notebook-app) )     |
+|:-------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png" width="900" /> | 
+| It's Live 🎉 Visit here ==> https://notebook-app.netlify.app/ |
+
+<br/>
+
+---
+
+<br/>
+
+# 5) Conference Schedule App  
+|   Conference Schedule App       |            
+|:-----------------------------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/94646070-2844fc80-030d-11eb-8fe5-cdc881f88d8c.png" width="900" />  | 
+| It's Live 🎉 Visit here ==> https://conference-schedule-app.netlify.app/ |
+
+<br/>
+
+---
+
+<br/>
+
+# 6) Tetris React Game
+|     Tetris React Game |       
+|:---------------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/94886472-fd84b080-0492-11eb-9668-db1f2a612b8c.png" width="900" />  |
+|  It's Live 🎉 Visit here ==> https://tetramino-tetris.netlify.app/ |
+
+<br/>
+
+---
+
+<br/>
+
+#  7) Bookmark App
+|  Bookmark App |
+|:---------------:|
+|<img src="https://user-images.githubusercontent.com/37651620/94985851-ab6a8a80-0579-11eb-8f51-fa35d314c588.png" width="900"/>|
+|It's Live 🎉 Visit here ==>https://book-mark-react.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 8) Fetch Movies 
+| Fetch Movies |
+|:---------------:|
+|<img src="https://user-images.githubusercontent.com/37651620/95007974-4b391e80-0635-11eb-91fb-040e6b55bfcf.png" width="900"/>|
+| It's Live 🎉 Visit here ==>https://fetch-movies.netlify.app/  |
+
+<br/>
+
+---
+<br/>
+
+# 9) Grocery List Manager
+
+| Grocery List Manager |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/95011170-8136cc80-064e-11eb-9b4b-8200b1fdf290.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://grocery-list-manager.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 10) Pokemon Info (pokedex) App.
+
+| Pokemon Info (pokedex) |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/95025734-aefe2e80-06ab-11eb-9915-ffad4e7014ed.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://pokemon-info-app.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 11) Budget Manager and Calculator.
+
+|Budget Manager and Calculator |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/96116885-e91bcb80-0f08-11eb-8653-b0dbb082f68c.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://budget-manager-react.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+
+# 12) Newsletter app.
+
+| Awesome Newsletter App |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://newsletter-react-app.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 13) Lofi Live music Player App.
+
+| Lofi Live music Player App |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/98583627-c6ed5180-22ec-11eb-999d-c6921f61ac93.png" width="900"/> |
+| It's Live 🎉 Visit here ==>  https://music-player-react.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 14) Space Invader Game.
+
+| Space Invader Game |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/98832957-911fa880-2465-11eb-8249-f1507f39cd18.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://space-invader-react.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 15) Virtual Piano (React Musical Instrument).
+
+| Virtual Piano  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/100707288-8ad07c80-33d2-11eb-937c-8b38bb9d8ca1.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://virtual-piano-instrument.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+---
+<br/>
+
+# 16) React moodboard (drag and drop images).
+
+| MoodBoard  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101074345-bb7a0700-35c8-11eb-9bde-c9d9b12c63ba.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://moodboard-dnd.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 17) React Admin Dashboard.
+
+| Admin-Dashboard  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101245506-7aebcc00-3735-11eb-9bc4-94dab2475dc1.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://simple-admin-dashboard.netlify.app/ |
+
+<br/>
+
+---
+<br/>
+
+# 18) Wiki Search.
+
+| Wiki Search  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101260703-b6988d00-3759-11eb-83dd-1b3b9242f658.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://react-wiki-search.netlify.app/ |
+
+<br/>
+---
+<br/>

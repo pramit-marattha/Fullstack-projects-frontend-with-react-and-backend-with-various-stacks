@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
+
+.App {
+  text-align: center;
+  font-family: "Finger Paint", cursive;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.piano-container {
+  display: inline-flex;
+  border-top: 40px solid rgb(39, 39, 62);
+}
+
+.piano-natural-key {
+  width: 65px;
+  height: 480px;
+  cursor: pointer;
+  background: #80c4f5;
+  margin: 0 3px;
+  color: #444;
+  padding: 10px;
+  border-radius: 5px 7px 20px 20px;
+}
+
+.piano-text {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.piano-natural-key-playing {
+  border-bottom: 10px solid rgb(36, 45, 45);
+  color: rgb(111, 158, 167);
+}
+
+.piano-accidental-key-wrapper {
+  position: relative;
+  width: 0;
+}
+
+.piano-accidental-key {
+  position: absolute;
+  cursor: pointer;
+  background: rgb(34, 33, 33);
+  transform: translateX(-50%);
+  width: 46px;
+  height: 220px;
+  border-radius: 0 0 20px 20px;
+  border: 6px solid #444;
+  border-top: none;
+  padding: 5px;
+  outline: none;
+  color: #dbdbdd;
+}
