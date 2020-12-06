@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
+
+body {
+  /* background: url("../Images/moodboard.png"); */
+  background: #212121;
+  margin: 0;
+  font-family: "Finger Paint", cursive;
+  color: teal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
