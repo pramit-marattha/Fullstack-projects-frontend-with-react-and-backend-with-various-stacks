@@ -1,4 +1,4 @@
-# Bookmark Manager Project 
+# Bookmark manager project
 
 ![image](https://user-images.githubusercontent.com/37651620/94985851-ab6a8a80-0579-11eb-8f51-fa35d314c588.png)
 
