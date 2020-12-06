@@ -1,0 +1,76 @@
+.App {
+  max-width: 1920px;
+  margin: 5px auto;
+}
+
+.moodboard-center {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+/* Dropzone */
+.moodboard {
+  padding: 1px;
+  height: 5vh;
+  border: 2px dashed #7649bc;
+  border-radius: 90px;
+  outline: teal;
+  cursor: pointer;
+}
+.moodboard-active {
+  background-color: #f1e2ff;
+  border: 5px solid #2fd7b5;
+}
+.moodboard-content {
+  align-self: center;
+  font-size: 24px;
+}
+
+/* Images */
+.moodboard-img-list {
+  margin: 50px 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+.moodboard-img-item {
+  /* width: calc(19% - 20px); */
+  width: calc(90% - 9px);
+  height: calc(19% - 9px);
+  border: 7px solid grey;
+  border-radius: 10px;
+  margin: 10px;
+  cursor: move;
+  transition: all 2.2s linear;
+}
+.moodboard-img {
+  width: 100%;
+  height: 100%;
+}
+
+/* Tablets */
+@media (max-width: 1000px) {
+  .App {
+    max-width: 600px;
+  }
+  .moodboard-img-item {
+    width: calc(50% - 22px);
+    height: 200px;
+  }
+}
+
+/* Mobiles */
+@media (max-width: 640px) {
+  .App {
+    max-width: 100%;
+    padding: 0 15px;
+  }
+  .moodboard-img-item {
+    width: calc(100% - 22px);
+    height: 200px;
+  }
+}
