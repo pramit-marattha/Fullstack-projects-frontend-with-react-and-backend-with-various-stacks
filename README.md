@@ -237,3 +237,14 @@
 <br/>
 ---
 <br/>
+
+# 19) Simple Chess Game.
+
+| Awesome Chess  |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101364822-1b272980-38cb-11eb-8854-ecb490203bc6.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://simple-chess-react.netlify.app/ |
+
+<br/>
+---
+<br/>
