@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@1,700&family=Finger+Paint&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 19px;
+  border: none;
+  font-family: "Cormorant Infant", serif;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: #1f1a25;
+  background-image: url("../assets/wikki.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+/* 
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchBox {
+  border: 2px solid teal;
+  border-radius: 15px;
+  padding: 2em;
+}
+ */
+.ws-search {
+  text-align: center;
+  padding: 0.4em;
+  font-size: 29px;
+}
+
+.wrapper {
+  position: fixed;
+  height: 225px;
+  width: calc(100vw - 2.5em);
+  bottom: 1.25rem;
+  left: 0;
+  right: 0;
+  background: #6d78bf;
+  padding: 1.25em;
+  margin: 0 auto;
+  border-radius: 10px;
+  transition: all linear 0.2s;
+}
+.wrapper:focus-within {
+  height: 100vh;
+  width: 100vw;
+  bottom: 0;
+  border-radius: 0;
+}
+
+.searchBox {
+  width: 80%;
+  padding: 1.25em;
+  border-radius: 10px;
+  font-size: 1rem;
+  margin: 0 0 1em 0;
+}
+
+.draw-border {
+  box-shadow: inset 0 0 0 4px #58afd1;
+  color: #58afd1;
+  -webkit-transition: color 0.25s 0.0833333333s;
+  transition: color 0.25s 0.0833333333s;
+  position: relative;
+  border-radius: 30px;
+}
+.draw-border::before,
+.draw-border::after {
+  border: 0 solid transparent;
+  border-radius: 30px;
+
+  box-sizing: border-box;
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: 0;
+  right: 0;
+}
+.draw-border::before {
+  border-bottom-width: 4px;
+  border-left-width: 4px;
+}
+.draw-border::after {
+  border-top-width: 4px;
+  border-right-width: 4px;
+}
+.draw-border:hover {
+  color: #ffe593;
+}
+.draw-border:hover::before,
+.draw-border:hover::after {
+  border-color: #ffe593;
+  -webkit-transition: border-color 0s, width 0.25s, height 0.25s;
+  transition: border-color 0s, width 0.25s, height 0.25s;
+  width: 100%;
+  height: 100%;
+}
+.draw-border:hover::before {
+  -webkit-transition-delay: 0s, 0s, 0.25s;
+  transition-delay: 0s, 0s, 0.25s;
+}
+.draw-border:hover::after {
+  -webkit-transition-delay: 0s, 0.25s, 0s;
+  transition-delay: 0s, 0.25s, 0s;
+}
+
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font-family: "Finger Paint", cursive;
+  padding: 1em 3em;
+  letter-spacing: 0.05rem;
+  border-radius: 30px;
+}
+.btn:focus {
+  outline: 2px dotted #55d7dc;
+}
