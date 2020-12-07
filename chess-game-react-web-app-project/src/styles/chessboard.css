@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
+
+* {
+  font-family: "Finger Paint", cursive;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+html,
+body {
+  font-size: 10px;
+  margin: 0;
+  background: url("../assets/chessbganim.gif") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 768px) {
+  .chess-board {
+    max-width: initial;
+    margin: 0;
+  }
+}
+
+.chess-board {
+  max-width: 85vmin;
+  /* max-width: 40%; */
+  margin: -18% auto;
+}
+
+.nav-header {
+  color: #fff;
+  background: url("../assets/chessbg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /* background: #303540; */
+  border-radius: 1px;
+  padding: 17px 30px;
+  text-align: center;
+}
+
+.btn-wrapper {
+  /* text-align: center; */
+}
+
+.btn-reload {
+  /* position: absolute; */
+  /* top: 100%; */
+  /* /* align-items: center; */
+  /* text-align: center;  */
+  /* position: absolute; */
+  /* -ms-transform: translateY(-60%); */
+  transform: translateY(350%);
+  /* -ms-transform: translateX(150%); */
+  /* transform: translateX(150%); */
+  /* align-items: center; */
+  cursor: pointer;
+  background: rgb(71, 66, 66);
+  border: 2px solid white;
+  border-radius: 10px;
+  font-family: sans-serif;
+  padding: 10px;
+  color: white;
+}
