@@ -1,0 +1,10 @@
+.resultsBox {
+  padding: 0.3em;
+  border: 1px solid rgb(193, 186, 186);
+  border-radius: 15px;
+  box-shadow: inset 0 0 10px;
+}
+
+.resultsBoxHeader {
+  margin: 0;
+}
