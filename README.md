@@ -248,3 +248,14 @@
 <br/>
 ---
 <br/>
+
+# 20) Tesla Mileage Evaluator.
+
+| Tesla Mileage Evaluator |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/101777840-22dd0d00-3b1b-11eb-8686-a3db95daae8c.gif" width="900"/> |
+| It's Live 🎉 Visit here ==> https://tesla-mileage.netlify.app/ |
+
+<br/>
+---
+<br/>
