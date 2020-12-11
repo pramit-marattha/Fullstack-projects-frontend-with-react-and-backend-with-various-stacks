@@ -1,0 +1,28 @@
+.battery-life {
+  width: 1050px;
+  margin: 0 auto;
+}
+
+.battery-life h1 {
+  font-family: "TESLA";
+  font-weight: 100;
+  font-size: 38px;
+  text-align: center;
+  letter-spacing: 3px;
+  margin: 1%;
+}
+
+.climate-control-container {
+  float: left;
+  width: 390px;
+  padding: 0 90px;
+  margin: 0 20px 0 0;
+  border-radius: 80px;
+  border-left: 5px solid #ccc;
+  box-shadow: rgba(20, 10, 10, 0.51);
+  border-right: 5px solid #ccc;
+}
+.counter-stat-controls {
+  display: block;
+  width: 100%;
+}
