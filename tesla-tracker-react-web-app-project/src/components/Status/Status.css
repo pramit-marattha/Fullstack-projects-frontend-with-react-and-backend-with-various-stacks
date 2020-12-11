@@ -1,0 +1,56 @@
+.car-model-status {
+  margin: -70px 0 30px;
+}
+.car-model-status ul {
+  text-align: center;
+}
+.car-model-status ul li {
+  display: inline-block;
+  width: 130px;
+  position: relative;
+}
+.car-model-status ul li p {
+  font-size: 35px;
+  font-weight: normal;
+  font-family: "TESLA";
+  display: block;
+  padding: 20px 20px 30px 0;
+  position: relative;
+  color: #039ad1;
+  font-family: "TESLA";
+  text-align: right;
+}
+.car-model-status ul li p:after {
+  font-size: 10px;
+  font-weight: normal;
+  font-family: "RobotoNormal";
+  content: "miles";
+  position: absolute;
+  top: 49px;
+  right: 0;
+}
+.car-status-icon {
+  height: 65px;
+  background-size: auto 60px;
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+.car-status-icon--60 {
+  /* content: 60; */
+  background-image: url(../../assets/carVersion/s60.png);
+}
+.car-status-icon--60d {
+  background-image: url(../../assets/carVersion/x60d.png);
+}
+.car-status-icon--75 {
+  background-image: url(../../assets/carVersion/s75.png);
+}
+.car-status-icon--75d {
+  background-image: url(../../assets/carVersion/s75d.png);
+}
+.car-status-icon--90d {
+  background-image: url(../../assets/carVersion/s90d.png);
+}
+.car-status-icon--p100d {
+  background-image: url(../../assets/carVersion/p100d.png);
+}

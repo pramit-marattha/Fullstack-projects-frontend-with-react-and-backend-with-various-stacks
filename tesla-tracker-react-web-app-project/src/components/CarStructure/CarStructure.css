@@ -1,0 +1,114 @@
+.fullbody-chassis {
+  width: 90%;
+  min-height: 310px;
+  background: rgba(255, 255, 255, 0) url(../../assets/tethla.png) no-repeat top
+    center;
+  background-size: contain;
+  margin: 2%;
+}
+
+.front-back-wheels {
+  height: 247px;
+  width: 555px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.wheel-container {
+  height: 81px;
+  width: 80px;
+  bottom: 0;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+}
+.wheel-container--front {
+  left: 69px;
+}
+.wheel-container--rear {
+  right: 85px;
+}
+.wheel-container--19 {
+  background-image: url(../../assets/new_wheel-19.png);
+  -webkit-animation: infinite-spinning 250ms steps(7) infinite;
+  -moz-animation: infinite-spinning 250ms steps(7) infinite;
+  -o-animation: infinite-spinning 250ms steps(7) infinite;
+  animation: infinite-spinning 250ms steps(7) infinite;
+}
+.wheel-container--21 {
+  background-image: url(../../assets/new_wheel-21.png);
+  -webkit-animation: infinite-spinning 480ms steps(12) infinite;
+  -moz-animation: infinite-spinning 480ms steps(12) infinite;
+  -o-animation: infinite-spinning 480ms steps(12) infinite;
+  animation: infinite-spinning 480ms steps(12) infinite;
+}
+
+@keyframes infinite-spinning {
+  from {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes infinite-spinning {
+  from {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.road-moving {
+  position: absolute;
+  width: 1050px;
+  height: 10px;
+  transform-origin: bottom;
+  transform: perspective(600px) rotateX(40deg);
+}
+
+.road-moving:before {
+  content: "";
+  position: absolute;
+  top: 60%;
+  transform: translateY(-50%);
+  left: 0;
+  width: 100%;
+  height: 10px;
+  background: linear-gradient(
+    90deg,
+    #fff 0%,
+    #fff 70%,
+    #898888 70%,
+    #525252 100%
+  );
+  background-size: 100px;
+  animation: moving 0.6s linear infinite;
+}
+
+@keyframes moving {
+  0% {
+    background-position: 0px;
+  }
+  100% {
+    background-position: 320px;
+  }
+}

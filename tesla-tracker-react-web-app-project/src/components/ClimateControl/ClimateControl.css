@@ -1,0 +1,63 @@
+.aircondition-toggle {
+  padding: 2%;
+  float: left;
+}
+.aircondition-toggle__item {
+  cursor: pointer;
+  display: block;
+  width: 100px;
+  height: 70px;
+  border: 7px solid #f7f7f7;
+  border-radius: 10%;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+  color: #666;
+  background: #fff;
+}
+.aircondition-toggle__item--active {
+  color: #fff;
+  background: #33ebff;
+  background: -moz-linear-gradient(top, #33a0ff 0%, #388bff 100%);
+  background: -webkit-linear-gradient(top, #33a0ff 0%, #388bff 100%);
+  background: linear-gradient(to bottom, #33a0ff 0%, #388bff 100%);
+}
+.aircondition-toggle__item--active.car-heater-toggle {
+  background: #d61200;
+  background: -moz-linear-gradient(top, #d64800 0%, #d20200 100%);
+  background: -webkit-linear-gradient(top, #d64800 0%, #d20200 100%);
+  background: linear-gradient(to bottom, #d64800 0%, #d20200 100%);
+}
+.aircondition-toggle__icon {
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin: 8px auto 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../../assets/climate/ac-off.svg);
+}
+.car-heater-toggle .aircondition-toggle__icon {
+  background-image: url(../../assets/climate/heat-off.svg);
+}
+.aircondition-toggle__item--active .aircondition-toggle__icon {
+  background-image: url(../../assets/climate/ac-on.svg);
+}
+.aircondition-toggle__item--active.car-heater-toggle
+  .aircondition-toggle__icon {
+  background-image: url(../../assets/climate/heat-on.svg);
+}
+.aircondition-toggle p {
+  margin: 14px 0 0;
+  text-align: center;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+.aircondition-toggle input[type="checkbox"] {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
