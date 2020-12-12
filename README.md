@@ -4,7 +4,7 @@
 
 ---
 
-![Full_project_timeline](https://user-images.githubusercontent.com/37651620/98842493-c7632500-2471-11eb-94ea-5ce4e196bf71.png)
+![Full_project_timeline](https://user-images.githubusercontent.com/37651620/101986409-bb0ef980-3cb5-11eb-966d-a1c53c91f36f.png)
 ## It's Live 🎉 Visit here ==> https://fullstack-timeline.netlify.app/
 
 ---
@@ -225,6 +225,7 @@
 <br/>
 
 ---
+
 <br/>
 
 # 18) Wiki Search.
@@ -246,7 +247,9 @@
 | It's Live 🎉 Visit here ==> https://simple-chess-react.netlify.app/ |
 
 <br/>
+
 ---
+
 <br/>
 
 # 20) Tesla Mileage Evaluator.
@@ -257,5 +260,7 @@
 | It's Live 🎉 Visit here ==> https://tesla-mileage.netlify.app/ |
 
 <br/>
+
 ---
+
 <br/>
