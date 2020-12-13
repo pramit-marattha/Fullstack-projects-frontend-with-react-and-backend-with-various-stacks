@@ -3,7 +3,7 @@
 | Code Editor | Chat App  | Dark Mode | Notebook |
 |:------:|:-------:|:--------:|:--------:|
 | ![m](https://user-images.githubusercontent.com/37651620/93988236-32647980-fda8-11ea-9052-3238ea4a42b2.png) | ![](https://user-images.githubusercontent.com/37651620/94143516-a7f74500-fe8f-11ea-9105-188e31f1d62a.png) | ![](https://user-images.githubusercontent.com/37651620/94997593-f2816b80-05cb-11eb-8b99-8fa1fa71fada.png) | ![](https://user-images.githubusercontent.com/37651620/94556131-54fd0380-027c-11eb-9926-c55a3130bb36.png)  |
-| Conference Schedule App  | Tetris Game | Bookmark Manager | Movie App |
+| Conference Scheduler  | Tetris Game | Bookmark Manager | Movie App |
 | ![](https://user-images.githubusercontent.com/37651620/102002305-483c6780-3d23-11eb-8b92-b9f4af28060c.png) | ![](https://user-images.githubusercontent.com/37651620/94886472-fd84b080-0492-11eb-9668-db1f2a612b8c.png) | ![](https://user-images.githubusercontent.com/37651620/94985851-ab6a8a80-0579-11eb-8f51-fa35d314c588.png) | ![](https://user-images.githubusercontent.com/37651620/102002038-ca775c80-3d20-11eb-9d69-574b3f0ede91.png) |
 | Grocery List Manager | Pokedex | Budget Calculator | Newsletter |
 | ![](https://user-images.githubusercontent.com/37651620/95011170-8136cc80-064e-11eb-9b4b-8200b1fdf290.png) |![pokemon_info](https://user-images.githubusercontent.com/37651620/102002048-e4b13a80-3d20-11eb-96b0-3e102d389529.png) |<img src="https://user-images.githubusercontent.com/37651620/96116885-e91bcb80-0f08-11eb-8653-b0dbb082f68c.png" width="120" /> | <img src="https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png" width="120" />|
