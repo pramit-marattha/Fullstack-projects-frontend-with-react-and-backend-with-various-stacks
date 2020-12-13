@@ -13,7 +13,8 @@
 |:------:|:-------:|:--------:|:--------:|
 | ![](https://user-images.githubusercontent.com/37651620/94646070-2844fc80-030d-11eb-8fe5-cdc881f88d8c.png) | ![](https://user-images.githubusercontent.com/37651620/94886472-fd84b080-0492-11eb-9668-db1f2a612b8c.png) | ![](https://user-images.githubusercontent.com/37651620/94985851-ab6a8a80-0579-11eb-8f51-fa35d314c588.png) | ![](https://user-images.githubusercontent.com/37651620/95007974-4b391e80-0635-11eb-91fb-040e6b55bfcf.png) |
 | ![](https://user-images.githubusercontent.com/37651620/95011170-8136cc80-064e-11eb-9b4b-8200b1fdf290.png) |![pokemon_info](https://user-images.githubusercontent.com/37651620/95025734-aefe2e80-06ab-11eb-9915-ffad4e7014ed.png) |<img src="https://user-images.githubusercontent.com/37651620/96116885-e91bcb80-0f08-11eb-8653-b0dbb082f68c.png" width="120" /> | <img src="https://user-images.githubusercontent.com/37651620/97455969-80007300-1960-11eb-8be3-876c8f875c1e.png" width="120" />|
-
+| ![](https://user-images.githubusercontent.com/37651620/98583627-c6ed5180-22ec-11eb-999d-c6921f61ac93.png) | ![](https://user-images.githubusercontent.com/37651620/98832957-911fa880-2465-11eb-8249-f1507f39cd18.gif) | ![](https://user-images.githubusercontent.com/37651620/100707288-8ad07c80-33d2-11eb-937c-8b38bb9d8ca1.png)| ![](https://user-images.githubusercontent.com/37651620/101074345-bb7a0700-35c8-11eb-9bde-c9d9b12c63ba.gif)|
+|![](https://user-images.githubusercontent.com/37651620/101245506-7aebcc00-3735-11eb-9bc4-94dab2475dc1.gif) |![](https://user-images.githubusercontent.com/37651620/101260703-b6988d00-3759-11eb-83dd-1b3b9242f658.gif) |![](https://user-images.githubusercontent.com/37651620/101364822-1b272980-38cb-11eb-8854-ecb490203bc6.png) | ![](https://user-images.githubusercontent.com/37651620/101777840-22dd0d00-3b1b-11eb-8686-a3db95daae8c.gif)|
 
 
 ---
@@ -236,7 +237,9 @@
 | It's Live 🎉 Visit here ==> https://react-wiki-search.netlify.app/ |
 
 <br/>
+
 ---
+
 <br/>
 
 # 19) Simple Chess Game.
