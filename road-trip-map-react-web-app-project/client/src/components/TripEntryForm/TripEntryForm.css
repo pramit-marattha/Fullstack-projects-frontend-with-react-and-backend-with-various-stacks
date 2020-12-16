@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Turret+Road:wght@500&display=swap");
+
+.trip-form label {
+  margin: 0.5rem 0;
+  display: block;
+  width: 100%;
+}
+.trip-form input {
+  margin: 0.5rem 0;
+  display: block;
+  width: 100%;
+}
+
+.trip-form textarea {
+  margin: 0.5rem 0;
+  display: block;
+  width: 100%;
+}
+
+.error-message {
+  color: red;
+}
+
+.trip-form button {
+  display: block;
+  width: 100%;
+  line-height: 15px;
+  font-size: 10px;
+  font-family: "Turret Road", bold;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  border: 3px solid #333;
+  border-radius: 10px;
+  letter-spacing: 3px;
+  text-align: center;
+  position: relative;
+  transition: all 0.35s;
+}
+
+button span {
+  position: relative;
+  z-index: 2;
+}
+
+button:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #00b3ff;
+  border-radius: 10px;
+  transition: all 2.35s;
+}
+
+button:hover {
+  color: #fff;
+}
+
+button:hover:after {
+  width: 100%;
+}
+
+.small_description {
+  font-size: 6px;
+}
