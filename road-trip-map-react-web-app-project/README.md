@@ -1,4 +1,8 @@
 ## Road Trip Map Locater.
+![RoadTripMap](https://user-images.githubusercontent.com/37651620/102452816-1bf65300-4063-11eb-8942-32d768c3069d.png)
+
+---
+
 ![roadTripMap](https://user-images.githubusercontent.com/37651620/102373927-d301b880-3fe8-11eb-85b7-2628268a0ccd.png)
 ## It's Live 🎉 Visit here ==> https://road-trip-map.netlify.app/ 
 
