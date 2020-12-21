@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+html,
+body {
+    font-size: 13px;
+    font-family: "Finger Paint", cursive;
+    height: 100%;
+}
+
+button {
+    font-family: "Share Tech", sans-serif;
+}
+
+h1.fw-400 {
+    font-weight: 400;
+}
+
+.shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+[class*="col-"] {
+    margin: inherit 15px;
+    padding: 0 1rem !important;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+.col-8 {
+    width: 69.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+@media only screen and (max-width: 920px) {
+    [class*="col-"] {
+        margin-top: 15px;
+        width: 100%;
+    }
+
+    .px-0 {
+        padding: 0 0.5rem !important;
+    }
+
+    .visible-xs {
+        display: block !important;
+    }
+
+    .hidden-xs {
+        display: none !important;
+    }
+}
+
+.hidden-xs {
+    display: block;
+}
+
+.visible-xs,
+.d-none {
+    display: none;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
