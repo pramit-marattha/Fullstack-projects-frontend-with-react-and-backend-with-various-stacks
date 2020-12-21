@@ -288,4 +288,19 @@
 <br/>
 
 
+# 22) Live Statistics (react,redux,chartjs,react-chartsjs-2).
+
+| Covid-19 live statistics |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/102813187-79d2c400-43f0-11eb-9893-16bbed8f6a2f.png" width="900"/> |
+| It's Live 🎉 Visit here ==>https://covid-statistics-react.netlify.app/  |
+
+<br/>
+
+---
+
+<br/>
+
+
+
 
