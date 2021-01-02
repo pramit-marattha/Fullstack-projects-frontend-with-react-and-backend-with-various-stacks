@@ -1,0 +1,12 @@
+.App {
+  /* text-align: center; */
+}
+html,
+body {
+  background: url("https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_1280.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
