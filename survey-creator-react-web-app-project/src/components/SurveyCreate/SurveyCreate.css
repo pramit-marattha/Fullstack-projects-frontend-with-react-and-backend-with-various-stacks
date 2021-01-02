@@ -1,0 +1,16 @@
+.surveyComplete {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* margin-top: -50px;
+    margin-left: -100px; */
+}
+
+.surveyDisplay {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: 150px;
+  margin-left: -290px;
+}
