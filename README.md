@@ -314,7 +314,7 @@
 
 <br/>
 
-<p align="center"><a href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks#"><img src="https://user-images.githubusercontent.com/37651620/103480464-ac22ef00-4dfc-11eb-85f0-e69be2651030.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks#"><img src="https://user-images.githubusercontent.com/37651620/103480464-ac22ef00-4dfc-11eb-85f0-e69be2651030.png" alt="Back to top" height="79"/></a></p>
 
 
 
