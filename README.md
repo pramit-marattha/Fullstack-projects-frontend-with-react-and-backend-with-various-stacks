@@ -314,6 +314,19 @@
 
 <br/>
 
+# 24) Discord Clone Project (MongoDb,react,hooks,Expressjs,redux).
+
+| Discord Clone Project |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/103579771-073e0a00-4f01-11eb-9bd1-3060e530d72a.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://discord-clone-mern.netlify.app/ |
+
+<br/>
+
+---
+
+<br/>
+
 <p align="center"><a href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks#"><img src="https://user-images.githubusercontent.com/37651620/103480464-ac22ef00-4dfc-11eb-85f0-e69be2651030.png" alt="Back to top" height="79"/></a></p>
 
 
