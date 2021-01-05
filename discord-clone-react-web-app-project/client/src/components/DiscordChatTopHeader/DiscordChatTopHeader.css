@@ -1,0 +1,19 @@
+.chatHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: gray;
+  padding: 10px;
+}
+
+.chatHeader__msg {
+  color: gray;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.chatHeaderLeft > h3 {
+  display: flex;
+  align-items: center;
+  color: white;
+}

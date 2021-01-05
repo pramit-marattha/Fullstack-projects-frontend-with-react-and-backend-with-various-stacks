@@ -1,0 +1,35 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 10vh;
+  width: 100%;
+}
+
+.login > button {
+  width: 250px;
+  padding:20px;
+  border-radius:9px;
+  margin:15px;
+  background-color: #738adb;
+  color: white;
+  font-weight: 1000;
+}
+
+.login > button:hover {
+  background-color: white;
+  color: #738adb;
+}
+
+.login > div > img {
+  object-fit: contain;
+  height: 450px;
+}
+
+.alreadyExist{
+  cursor:pointer;
+  color: #738adb;
+}
+
+.alreadyExist:hover{
+  text-decoration: underline
+}
