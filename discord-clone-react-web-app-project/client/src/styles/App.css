@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+* {
+  margin: 0;
+  padding:0;
+  font-family: 'Varela Round', sans-serif;
+}
+
+html,body{
+  /* background-color: #202025; */
+  background: url("https://user-images.githubusercontent.com/37651620/103579535-8d0d8580-4f00-11eb-8312-49db58362a62.png") no-repeat center center fixed; 
+  /* background: url("https://user-images.githubusercontent.com/37651620/103574920-e70a4d00-4ef8-11eb-8673-69bb9052914d.png") no-repeat center center fixed;  */
+  /* background: url("https://user-images.githubusercontent.com/37651620/103574615-5c295280-4ef8-11eb-9562-0e270877e0d9.png") no-repeat center center fixed;  */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.app {
+  display: flex;
+}
