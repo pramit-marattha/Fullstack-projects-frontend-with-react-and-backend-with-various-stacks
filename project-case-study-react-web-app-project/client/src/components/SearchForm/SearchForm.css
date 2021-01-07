@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap");
+/* .search-input {
+  padding: 10px 20px;
+  border: solid 2px #686868;
+  border-radius: 5px;
+  margin-right: 5px;
+  outline: none;
+}
+.search-input:focus {
+  border-color: #005ad8;
+  transition: 0.5s;
+} */
+
+.search-button {
+  background-image: linear-gradient(
+    to right,
+    #02aab0 0%,
+    #00cdac 51%,
+    #02aab0 100%
+  );
+}
+.search-button {
+  margin: 0 auto;
+  padding: 10px 100px;
+  margin-top: 0px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  outline: none;
+}
+
+.search-button:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+/* .search-button {
+  padding: 10px 100px;
+  border: solid 2px #005ad8;
+  border-radius: 5px;
+  background-color: #005ad8;
+  color: white;
+  outline: none;
+  cursor: pointer;
+} */
+
+.search-label {
+  color: white;
+  font-family: "Finger Paint", cursive;
+  font-size: 1.2rem;
+  margin-left: 2rem;
+  margin-top: 0.2rem;
+  display: block;
+  transition: all 0.3s;
+  transform: translateY(0rem);
+}
+
+.search-input {
+  color: #333;
+  font-size: 1.2rem;
+  margin: 0 auto;
+  padding: 1rem 0.5rem;
+  border-radius: 0.6rem;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  width: 50rem;
+  display: block;
+  border-bottom: 1rem solid transparent;
+  transition: all 0.3s;
+  outline:none;
+}
+
+@media only screen and (max-width: 900px) {
+  .search-input {
+    color: #333;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding: 1rem 0.5rem;
+    border-radius: 0.6rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 100%;
+    display: block;
+    border-bottom: 1rem solid transparent;
+    transition: all 0.3s;
+  }
+}
+
+.search-input:placeholder-shown + .search-label {
+  opacity: 0;
+  color: white;
+  visibility: hidden;
+  -webkit-transform: translateY(-4rem);
+  transform: translateY(-4rem);
+}
