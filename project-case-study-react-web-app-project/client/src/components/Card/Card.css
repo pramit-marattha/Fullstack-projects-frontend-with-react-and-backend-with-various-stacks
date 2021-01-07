@@ -1,0 +1,32 @@
+.container__cardbox {
+  flex: 1;
+  /* flex-grow: 4; */
+  flex-basis: 15%;
+  margin: 15px;
+  /* border: solid 2px #383636; */
+  border-radius: 25px;
+  /* display: flex; */
+  flex-flow: row wrap;
+}
+
+.card-body {
+  padding: 10px;
+  border-radius: 20px;
+  background: white;
+}
+
+.card-title {
+  font-size: 25px;
+  text-align: left;
+}
+
+.card-description {
+  font-size: 12px;
+  margin: 4px;
+  text-align: center;
+}
+
+.card-image {
+  width: 20%;
+  margin-top: -130px;
+}
