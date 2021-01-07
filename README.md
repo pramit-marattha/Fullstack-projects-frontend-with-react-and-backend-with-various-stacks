@@ -19,7 +19,7 @@
 
 ---
 
-![Full_project_timeline](https://user-images.githubusercontent.com/37651620/103626184-f07ccf00-4f63-11eb-9319-f31e989082c8.png)
+![Full_project_timeline](https://user-images.githubusercontent.com/37651620/103862627-8bea7d00-50e7-11eb-9e52-e88b000a62e5.png)
 ## It's Live 🎉 Visit here ==> https://pramit-marattha.github.io/fullstack-react-timeline/
 
 ---
@@ -322,6 +322,17 @@
 |:---------------:|
 | <img src="https://user-images.githubusercontent.com/37651620/103579771-073e0a00-4f01-11eb-9bd1-3060e530d72a.png" width="900"/> |
 | It's Live 🎉 Visit here ==> https://discord-clone-mern.netlify.app/ |
+
+<br/>
+
+---
+
+# 25) Projects Case Study / explore and Take Note(MERN stack app).
+
+| Projects Case Study / explore and Take Note |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/103857695-0f53a080-50df-11eb-8645-917f939f866f.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://project-explore-mern.netlify.app/ |
 
 <br/>
 
