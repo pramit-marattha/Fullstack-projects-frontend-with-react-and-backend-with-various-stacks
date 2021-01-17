@@ -1,0 +1,55 @@
+.tablelong{
+        /* height: 0%; 
+        width: 60%; 
+        position: center; 
+        z-index: 1; 
+        left: 0; */
+        /* top: 0;  */
+        /* height:20%; */
+         margin-left: auto;
+        margin-right: auto;
+        /* border-radius:20%; */
+        width: 70%;
+}
+
+.fontanim {
+    font-size:20px;
+    text-decoration: underline;
+    animation: colorchange 50s infinite;
+}
+
+@keyframes colorchange {
+  0% {
+    color: blue;
+  }
+  10% {
+    color: #8e44ad;
+  }
+  20% {
+    color: #1abc9c;
+  }
+  30% {
+    color: #d35400;
+  }
+  40% {
+    color: blue;
+  }
+  50% {
+    color: #34495e;
+  }
+  60% {
+    color: blue;
+  }
+  70% {
+    color: #2980b9;
+  }
+  80% {
+    color: #f1c40f;
+  }
+  90% {
+    color: #2980b9;
+  }
+  100% {
+    color: pink;
+  }
+}
