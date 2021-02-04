@@ -1,70 +1,100 @@
-![under_construction](https://user-images.githubusercontent.com/37651620/93677983-a7942e00-facc-11ea-8b6d-b57e73dc73bf.png)
+![goalmgr](https://user-images.githubusercontent.com/37651620/106894418-0e7e5080-6717-11eb-9a4b-83bd70401dc9.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's Live 🎉 Visit here ==> https://goal-manager-mern.netlify.app/
 
-## Available Scripts
 
-In the project directory, you can run:
+## Notes
 
-### `yarn start`
+- **M** = MongoDB (We'll use Mongoose to make it easier for Node.js to work with MongoDB, and we'll use MongoDB Atlas = MongoDB database, but cloud).
+- **E** = Express (makes it easier to work with Node.js. We'll use `cors` middleware to access other servers outside our server).
+- **R** = React (for the frontend. We'll use `bootstrap` for styling, `react-router-dom` for React routes, `react-datepicker` for React Datepicker component, and `axios` to connect to the backend).
+- **N** = Node.js (for the server. We'll use `dotenv` to load environment variables from an .env file into `process.env`, and `nodemon` to make the app auto-restart when you edit/save files).
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Goal Manager App:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+To just get it running after you `git clone`, set up [MongoDB Atlas](https://github.com/hchiam/learning-mern-stack#mongodb-atlas), and then follow these CLI steps:
 
-### `yarn test`
+```bash
+cd goal-manager
+cd client
+npm install
+cd server
+npm install
+touch .env
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# inside /client: (separate CLI tab)
+cd ..
+cd client
+npm i
+npm start
 
-### `yarn build`
+# inside server folder: (separate CLI tab)
+cd server
+nodemon server.js
+# or: nodemon -x 'npm run lint; node server.js'
+```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To develop it yourself from scratch, follow CLI steps below, and copy the code from this repo to fill in the files you create.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<details>
+<summary><span style="font-size:x-large">MongoDB</span></summary>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Terms
 
-### `yarn eject`
+- Database = Database (in Tabular/Relational DBs)
+- Collection = Table (in Tabular/Relational DBs)
+- Document = Row (in Tabular/Relational DBs)
+- Index = Index (in Tabular/Relational DBs)
+- $lookup = Join (in Tabular/Relational DBs)
+- Reference = Foreign Key (in Tabular/Relational DBs)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### MongoDB Documents
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+BSON (looks like JSON). "Documents" can be nested. Data can be placed "right next" to each other.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### MongoDB Atlas
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Cluster = place to store data (in the cloud).
 
-## Learn More
+Hit the "Connect" button to see the security and connection steps.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Set up your `.env` file and paste in the URI that you get from following the instructions. It should look something like this:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```text
+PORT=6969
+ATLAS_URI= your cloud url
+```
 
-### Code Splitting
+You need to remember to paste in the `<dbUser>` and `<password>`. Do **NOT** share it publicly, and do **NOT** include the `.env` file in commits.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### MongoDB ObjectId
 
-### Analyzing the Bundle Size
+ObjectId is guaranteed unique across collections: timestamp + random value + count.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+</details>
 
-### Making a Progressive Web App
+<details>
+<summary><span style="font-size:x-large">Project Setup</span></summary>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+```bash
+node -v
+clone it or start from scratch
+npx create-react-app .
+```
 
-### Advanced Configuration
+</details>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+<details>
+<summary><span style="font-size:x-large">Server Setup</span></summary>
 
-### Deployment
+```bash
+cd goal-manager
+cd server
+npm init
+npm install express cors mongoose dotenv
+npm install -g nodemon # you might have to do sudo
+touch server.js # inside /backend
+nodemon server.js
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Leave `nodemon` running in that CLI tab. Open another CLI tab to run in parallel so you can create more files.
