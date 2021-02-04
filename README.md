@@ -353,6 +353,19 @@
 
 <br/>
 
+# 27) Goal Manager Project(MERN stack app).
+
+| Goal Manager Project(MERN stack app). |
+|:---------------:|
+| <img src="https://user-images.githubusercontent.com/37651620/106894418-0e7e5080-6717-11eb-9a4b-83bd70401dc9.png" width="900"/> |
+| It's Live 🎉 Visit here ==> https://goal-manager-mern.netlify.app/ |
+
+<br/>
+
+---
+
+<br/>
+
 <p align="center"><a href="https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks#"><img src="https://user-images.githubusercontent.com/37651620/103480464-ac22ef00-4dfc-11eb-85f0-e69be2651030.png" alt="Back to top" height="79"/></a></p>
 
 
