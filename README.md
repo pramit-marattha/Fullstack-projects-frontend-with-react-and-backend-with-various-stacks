@@ -19,7 +19,7 @@
 
 ---
 
-![Full_project_timeline](https://user-images.githubusercontent.com/37651620/106910912-c87eb800-6729-11eb-940b-3c90094cc27a.png)
+![Full_project_timeline](https://user-images.githubusercontent.com/37651620/107910983-ab48b580-6f83-11eb-9dd2-b1a343a9d575.png)
 ## It's Live 🎉 Visit here ==> https://pramit-marattha.github.io/fullstack-react-timeline/
 
 ---
