@@ -1,0 +1,986 @@
+
+{
+    "1":{
+    "title": "$orries",
+    "artist": "Peachy!",
+    "album": " Shiloh",
+    "track": "$orries",
+    "year": "1",
+    "img_src": "./songs_images/$orries_Cover (front)_e.jpg",
+    "src": "./songs/$orries.mp3"
+    },
+
+"2":{
+    "title": "[oops]",
+    "artist": "potsu",
+    "album": "[oops]",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/[oops]_Cover (front)_e.jpg",
+    "src": "./songs/[oops].mp3"
+},
+"3":{
+    "title": "5 32pm",
+    "artist": "The Deli",
+    "album": "Vibes 2",
+    "track": "12",
+    "year": "",
+    "img_src": "./songs_images/5 32pm_Cover (front)_e.jpg",
+    "src": "./songs/5 32pm.mp3"
+},
+"4":{
+    "title": "88 Keys",
+    "artist": "Oatmello",
+    "album": "Snapshots",
+    "track": "3",
+    "year": "",
+    "img_src": "./songs_images/88 Keys_Cover (front)_e.jpg",
+    "src": "./songs/88 Keys.mp3"
+},
+"5":{
+    "title": "Affection",
+    "artist": "Jinsang",
+    "album": "Life",
+    "track": "15",
+    "year": "",
+    "img_src": "./songs_images/Affection_Cover (front)_e.jpg ",
+    "src": "./songs/Affection.mp3"
+},
+"6":{
+    "title": "Again",
+    "artist": "Wun Two",
+    "album": "Penthouse",
+    "track": "4",
+    "year": "",
+    "img_src": "./songs_images/Again_Cover (front)_e.jpg",
+    "src": "./songs/Again.mp3"
+},
+"7":{
+    "title": "Alone and Lonely",
+    "artist": "prxz",
+    "album": " Shiloh Dynasty",
+    "track": "Love Wounds",
+    "year": "2",
+    "img_src": "./songs_images/Alone and Lonely_Cover (front)_e.jpg",
+    "src": "./songs/Alone and Lonely.mp3"
+},
+"8":{
+    "title": "Baby You're Worth It",
+    "artist": "Kina",
+    "album": "Baby You're Worth It",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Baby You're Worth It_Cover (front)_e.jpg",
+    "src": "./songs/Baby You're Worth It.mp3"
+},
+"9":{
+    "title": "Backpack City",
+    "artist": "Flovry",
+    "album": " tender spring",
+    "track": "Ages Ago",
+    "year": "4",
+    "img_src": "./songs_images/Backpack City_Cover (front)_e.jpg ",
+    "src": "./songs/Backpack City.mp3"
+},
+"10":{
+    "title": "Beauty",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "4",
+    "year": "",
+    "img_src": "./songs_images/Beauty_Cover (front)_e.jpg",
+    "src": "./songs/Beauty.mp3"
+},
+"11":{
+    "title": "Better Than He Can",
+    "artist": "Jennifer Flores",
+    "album": " Shiloh Dynasty",
+    "track": " LofiCentral",
+    "year": "All My Love",
+    "img_src": "./songs_images/Better Than He Can_Cover (front)_e.jpg",
+    "src": "./songs/Better Than He Can.mp3"
+},
+"12":{
+    "title": "Break My Heart Again",
+    "artist": "90degrees",
+    "album": "Break My Heart Again",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Break My Heart Again_Cover (front)_e.jpg",
+    "src": "./songs/Break My Heart Again.mp3"
+},
+"13":{
+    "title": "Brightness",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "15",
+    "year": "",
+    "img_src": "./songs_images/Brightness_Cover (front)_e.jpg",
+    "src": "./songs/Brightness.mp3"
+},
+"14":{
+    "title": "Call me",
+    "artist": "90sFlav",
+    "album": "Collection",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Call me_Cover (front)_e.jpg",
+    "src": "./songs/Call me.mp3"
+},
+"15":{
+    "title": "Can We Kiss Forever?",
+    "artist": "Kina",
+    "album": " Adriana Proenza",
+    "track": "Can We Kiss Forever?",
+    "year": "1",
+    "img_src": "./songs_images/Can We Kiss Forever _Cover (front)_e.jpg",
+    "src": "./songs/Can We Kiss Forever .mp3"
+},
+"16":{
+    "title": "Can't Love Myself",
+    "artist": "Monty Datta",
+    "album": " Mishaal",
+    "track": "Can't Love Myself",
+    "year": "1",
+    "img_src": "./songs_images/Can't Love Myself_Cover (front)_e.jpg",
+    "src": "./songs/Can't Love Myself.mp3"
+},
+"17":{
+    "title": "Can't Take My Eyes off You",
+    "artist": "Craymer",
+    "album": " AIIVAWN",
+    "track": "Can't Take My Eyes off You",
+    "year": "1",
+    "img_src": "./songs_images/Can't Take My Eyes off You_Cover (front)_e.jpg",
+    "src": "./songs/Can't Take My Eyes off You.mp3"
+},
+"18":{
+    "title": "Cigarettes and Sex",
+    "artist": "prxz",
+    "album": " Shiloh Dynasty",
+    "track": "Love Wounds",
+    "year": "1",
+    "img_src": "./songs_images/Cigarettes and Sex_Cover (front)_e.jpg",
+    "src": "./songs/Cigarettes and Sex.mp3"
+},
+"19":{
+    "title": "Coffee Breath",
+    "artist": "eyeroze",
+    "album": "Coffee Breath",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Coffee Breath_Cover (front)_e.jpg",
+    "src": "./songs/Coffee Breath.mp3"
+},
+"20":{
+    "title": "controlla",
+    "artist": "Idealism",
+    "album": "rainy evening",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/controlla_Cover (front)_e.jpg",
+    "src": "./songs/controlla.mp3"
+},
+"21":{
+    "title": "Cream",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "14",
+    "year": "",
+    "img_src": "./songs_images/Cream_Cover (front)_e.jpg",
+    "src": "./songs/Cream.mp3"
+},
+"22":{
+    "title": "Day in Paris",
+    "artist": "Llusion",
+    "album": "Day in Paris",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Day in Paris_Cover (front)_e.jpg",
+    "src": "./songs/Day in Paris.mp3"
+},
+"23":{
+    "title": "Daydreaming",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "8",
+    "year": "",
+    "img_src": "./songs_images/Daydreaming_Cover (front)_e.jpg",
+    "src": "./songs/Daydreaming.mp3"
+},
+"24":{
+    "title": "Death Bed",
+    "artist": "Fets",
+    "album": " Koosen",
+    "track": " Formal Chicken",
+    "year": "Death Bed",
+    "img_src": "./songs_images/Death Bed_Cover (front)_e.jpg",
+    "src": "./songs/Death Bed.mp3"
+},
+"25":{
+    "title": "drift...",
+    "artist": "junyii.",
+    "album": " Chill Children",
+    "track": "junyii・float",
+    "year": "3",
+    "img_src": "./songs_images/drift..._Cover (front)_e.jpg",
+    "src": "./songs/drift....mp3"
+},
+"26":{
+    "title": "Evil Morty",
+    "artist": "Weegie",
+    "album": " Koosen",
+    "track": " Poky",
+    "year": "Evil Morty",
+    "img_src": "./songs_images/Evil Morty_Cover (front)_e.jpg",
+    "src": "./songs/Evil Morty.mp3"
+},
+"27":{
+    "title": "Feblu",
+    "artist": "Flughand",
+    "album": "EXPEDITion Vol. 7: Moonloops",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/Feblu_Cover (front)_e.jpg",
+    "src": "./songs/Feblu.mp3"
+},
+"28":{
+    "title": "Fever Dream",
+    "artist": "Ethan Rebel",
+    "album": "Fever Dream",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Fever Dream_Cover (front)_e.jpg",
+    "src": "./songs/Fever Dream.mp3"
+},
+"29":{
+    "title": "First Heartbreak",
+    "artist": "Flovry",
+    "album": " tender spring",
+    "track": "Ages Ago",
+    "year": "3",
+    "img_src": "./songs_images/First Heartbreak_Cover (front)_e.jpg",
+    "src": "./songs/First Heartbreak.mp3"
+},
+"30":{
+    "title": "French Inhale",
+    "artist": "[bsd.u]",
+    "album": "444",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/French Inhale_Cover (front)_e.jpg",
+    "src": "./songs/French Inhale.mp3"
+},
+"31":{
+    "title": "Get You The Moon (feat. Snøw)",
+    "artist": "Kina",
+    "album": " Snøw",
+    "track": "Get You The Moon (feat. Snøw)",
+    "year": "1",
+    "img_src": "./songs_images/Get You The Moon (feat. Snøw)_Cover (front)_e.jpg",
+    "src": "./songs/Get You The Moon (feat. Snøw).mp3"
+},
+"32":{
+    "title": "Ghost Train Haze",
+    "artist": "BluntOne",
+    "album": "Forest Walk",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Ghost Train Haze_Cover (front)_e.jpg",
+    "src": "./songs/Ghost Train Haze.mp3"
+},
+"33":{
+    "title": "Happiness",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "12",
+    "year": "",
+    "img_src": "./songs_images/Happiness_Cover (front)_e.jpg",
+    "src": "./songs/Happiness.mp3"
+},
+"34":{
+    "title": "hold up",
+    "artist": "eevee",
+    "album": "beat tape 06",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/hold up_Cover (front)_e.jpg",
+    "src": "./songs/hold up.mp3"
+},
+"35":{
+    "title": "I Can't Help",
+    "artist": "Sarcastic Sounds",
+    "album": "I Can't Help",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/I Can't Help_Cover (front)_e.jpg",
+    "src": "./songs/I Can't Help.mp3"
+},
+"36":{
+    "title": "I Don't Sleep",
+    "artist": "Sarcastic Sounds",
+    "album": "I Don't Sleep",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/I Don't Sleep_Cover (front)_e.jpg",
+    "src": "./songs/I Don't Sleep.mp3"
+},
+"37":{
+    "title": "I Don't Trust Nobody",
+    "artist": "cucu",
+    "album": " Shiloh",
+    "track": "I Don't Trust Nobody",
+    "year": "1",
+    "img_src": "./songs_images/I Don't Trust Nobody_Cover (front)_e.jpg",
+    "src": "./songs/I Don't Trust Nobody.mp3"
+},
+"38":{
+    "title": "I'll Bite Your Soul",
+    "artist": "SHRK",
+    "album": " Shiloh Dynasty",
+    "track": "Lost in Love",
+    "year": "3",
+    "img_src": "./songs_images/I'll Bite Your Soul_Cover (front)_e.jpg",
+    "src": "./songs/I'll Bite Your Soul.mp3"
+},
+"39":{
+    "title": "I'll Keep You Safe",
+    "artist": "sagun",
+    "album": "I'll Keep You Safe",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/I'll Keep You Safe_Cover (front)_e.jpg",
+    "src": "./songs/I'll Keep You Safe.mp3"
+},
+"40":{
+    "title": "i'm closing my eyes (feat. shiloh)",
+    "artist": "potsu",
+    "album": "i'm closing my eyes (feat. shiloh)",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/i'm closing my eyes (feat. shiloh)_Cover (front)_e.jpg",
+    "src": "./songs/i'm closing my eyes (feat. shiloh).mp3"
+},
+"41":{
+    "title": "I'm Drunk and Confused",
+    "artist": "eyeroze",
+    "album": " 90degrees",
+    "track": "I'm Drunk and Confused",
+    "year": "1",
+    "img_src": "./songs_images/I'm Drunk and Confused_Cover (front)_e.jpg",
+    "src": "./songs/I'm Drunk and Confused.mp3"
+},
+"42":{
+    "title": "I'm Shy. I'm Anxious",
+    "artist": "prxz",
+    "album": " Shiloh Dynasty",
+    "track": "Love Wounds",
+    "year": "3",
+    "img_src": "./songs_images/I'm Shy. I'm Anxious_Cover (front)_e.jpg",
+    "src": "./songs/I'm Shy. I'm Anxious.mp3"
+},
+"43":{
+    "title": "I'm Sorry",
+    "artist": "Swell",
+    "album": " Shiloh",
+    "track": "Theres Still Us",
+    "year": "3",
+    "img_src": "./songs_images/I'm Sorry_Cover (front)_e.jpg",
+    "src": "./songs/I'm Sorry.mp3"
+},
+"44":{
+    "title": "I'm Yours",
+    "artist": "Koosen",
+    "album": " Avocuddle",
+    "track": " Fets",
+    "year": "I'm Yours",
+    "img_src": "./songs_images/I'm Yours_Cover (front)_e.jpg",
+    "src": "./songs/I'm Yours.mp3"
+},
+"45":{
+    "title": "In My Eyes",
+    "artist": "Beowülf",
+    "album": "In My Eyes",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/In My Eyes_Cover (front)_e.jpg",
+    "src": "./songs/In My Eyes.mp3"
+},
+"46":{
+    "title": "infinity",
+    "artist": "Oatmello",
+    "album": "infinity",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/infinity_Cover (front)_e.jpg",
+    "src": "./songs/infinity.mp3"
+},
+"47":{
+    "title": "I've Changed for You",
+    "artist": "Kina",
+    "album": " Madson Project.",
+    "track": "I've Changed for You",
+    "year": "1",
+    "img_src": "./songs_images/I've Changed for You_Cover (front)_e.jpg",
+    "src": "./songs/I've Changed for You.mp3"
+},
+"48":{
+    "title": "Kiss",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "3",
+    "year": "",
+    "img_src": "./songs_images/Kiss_Cover (front)_e.jpg",
+    "src": "./songs/Kiss.mp3"
+},
+"49":{
+    "title": "Landing",
+    "artist": "dryhope",
+    "album": "White Oak",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/Landing_Cover (front)_e.jpg",
+    "src": "./songs/Landing.mp3"
+},
+"50":{
+    "title": "Let Her Go",
+    "artist": "Sea Flap Flap",
+    "album": " Weegie",
+    "track": " Formal Chicken",
+    "year": "Let Her Go",
+    "img_src": "./songs_images/Let Her Go_Cover (front)_e.jpg",
+    "src": "./songs/Let Her Go.mp3"
+},
+"51":{
+    "title": "Long",
+    "artist": "Shiloh Dynasty",
+    "album": " LofiCentral",
+    "track": " Stay Might",
+    "year": "Remixes",
+    "img_src": "./songs_images/Long_Cover (front)_e.jpg",
+    "src": "./songs/Long.mp3"
+},
+"52":{
+    "title": "Loosing Interest",
+    "artist": "Timmies",
+    "album": "Passion & Confusion",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/Loosing Interest_Cover (front)_e.jpg",
+    "src": "./songs/Loosing Interest.mp3"
+},
+"53":{
+    "title": "Losing Interest",
+    "artist": "itssvd",
+    "album": " Shiloh Dynasty",
+    "track": "Missing",
+    "year": "2",
+    "img_src": "./songs_images/Losing .Interest_Cover (front)_e.jpg",
+    "src": "./songs/Losing .Interest.mp3"
+},
+"54":{
+    "title": "Losing Interest",
+    "artist": "itssvd",
+    "album": " Shiloh Dynasty",
+    "track": "Missing",
+    "year": "2",
+    "img_src": "./songs_images/Losing Interest(2)_Cover (front)_e.jpg",
+    "src": "./songs/Losing Interest.mp3"
+},
+"55":{
+    "title": "Losing Interest",
+    "artist": "Inownlove",
+    "album": " Shiloh",
+    "track": "Feel Blue",
+    "year": "9",
+    "img_src": "./songs_images/Losing Interest(2)_Cover (front)_e.jpg",
+    "src": "./songs/Losing Interest(2).mp3"
+},
+"56":{
+    "title": "Love Again",
+    "artist": "itssvd",
+    "album": " Shiloh Dynasty",
+    "track": "Missing",
+    "year": "1",
+    "img_src": "./songs_images/Love Again_Cover (front)_e.jpg",
+    "src": "./songs/Love Again.mp3"
+},
+"57":{
+    "title": "Love Is More Depressing Than Depression",
+    "artist": "prxz",
+    "album": " Shiloh Dynasty",
+    "track": "Love Wounds",
+    "year": "7",
+    "img_src": "./songs_images/Love Is More Depressing Than Depression_Cover (front)_e.jpg",
+    "src": "./songs/Love Is More Depressing Than Depression.mp3"
+},
+"58":{
+    "title": "Medieval",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "9",
+    "year": "",
+    "img_src": "./songs_images/Medieval_Cover (front)_e.jpg",
+    "src": "./songs/Medieval.mp3"
+},
+"59":{
+    "title": "Mirror Image",
+    "artist": "ENRA",
+    "album": " Sleepermane",
+    "track": "Tomorrows That Follow",
+    "year": "4",
+    "img_src": "./songs_images/Mirror Image_Cover (front)_e.jpg",
+    "src": "./songs/Mirror Image.mp3"
+},
+"60":{
+    "title": "Miss You",
+    "artist": "Monty Datta",
+    "album": " Shiloh Dynasty",
+    "track": "Miss You",
+    "year": "1",
+    "img_src": "./songs_images/Miss You_Cover (front)_e.jpg",
+    "src": "./songs/Miss You.mp3"
+},
+"61":{
+    "title": "Monday",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/Monday_Cover (front)_e.jpg",
+    "src": "./songs/Monday.mp3"
+},
+"62":{
+    "title": "my new love",
+    "artist": "Elijah Who",
+    "album": "Gentle Boy",
+    "track": "12",
+    "year": "",
+    "img_src": "./songs_images/my new love_Cover (front)_e.jpg",
+    "src": "./songs/my new love.mp3"
+},
+"63":{
+    "title": "nagashi",
+    "artist": "Idealism",
+    "album": "rainy evening",
+    "track": "5",
+    "year": "",
+    "img_src": "./songs_images/nagashi_Cover (front)_e.jpg",
+    "src": "./songs/nagashi.mp3"
+},
+"64":{
+    "title": "Night Walk",
+    "artist": "xander.",
+    "album": "Found Memories",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Night Walk_Cover (front)_e.jpg",
+    "src": "./songs/Night Walk.mp3"
+},
+"65":{
+    "title": "Nightfall",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "5",
+    "year": "",
+    "img_src": "./songs_images/Nightfall_Cover (front)_e.jpg",
+    "src": "./songs/Nightfall.mp3"
+},
+"66":{
+    "title": "Nostalgia",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "7",
+    "year": "",
+    "img_src": "./songs_images/Nostalgia_Cover (front)_e.jpg",
+    "src": "./songs/Nostalgia.mp3"
+},
+"67":{
+    "title": "Not Even Her (feat. Shiloh)",
+    "artist": "Floreyyyy",
+    "album": " Shiloh",
+    "track": "Intimacy",
+    "year": "8",
+    "img_src": "./songs_images/Not Even Her (feat. Shiloh)_Cover (front)_e.jpg",
+    "src": "./songs/Not Even Her (feat. Shiloh).mp3"
+},
+"68":{
+    "title": "Nova",
+    "artist": "mell-ø",
+    "album": "1 Am. Study Session",
+    "track": "6",
+    "year": "",
+    "img_src": "./songs_images/Nova_Cover (front)_e.jpg",
+    "src": "./songs/Nova.mp3"
+},
+"69":{
+    "title": "Oblivion",
+    "artist": "Rufi-O",
+    "album": " Lily Potter",
+    "track": "Oblivion",
+    "year": "1",
+    "img_src": "./songs_images/Oblivion_Cover (front)_e.jpg",
+    "src": "./songs/Oblivion.mp3"
+},
+"70":{
+    "title": "Our Adventures",
+    "artist": "xander.",
+    "album": "Found Memories",
+    "track": "3",
+    "year": "",
+    "img_src": "./songs_images/Our Adventures_Cover (front)_e.jpg",
+    "src": "./songs/Our Adventures.mp3"
+},
+"71":{
+    "title": "over u",
+    "artist": "keshi",
+    "album": "over u",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/over u_Cover (front)_e.jpg",
+    "src": "./songs/over u.mp3"
+},
+"72":{
+    "title": "Raindrops",
+    "artist": "Kupla",
+    "album": " j'san",
+    "track": "Memories",
+    "year": "2",
+    "img_src": "./songs_images/Raindrops_Cover (front)_e.jpg",
+    "src": "./songs/Raindrops.mp3"
+},
+"73":{
+    "title": "Riptide",
+    "artist": "Poky",
+    "album": " Koosen",
+    "track": " Sea Flap Flap",
+    "year": "Riptide",
+    "img_src": "./songs_images/Riptide_Cover (front)_e.jpg",
+    "src": "./songs/Riptide.mp3"
+},
+"74":{
+    "title": "Sad Vibes",
+    "artist": "eyeroze",
+    "album": "Sad Vibes",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Sad Vibes_Cover (front)_e.jpg",
+    "src": "./songs/Sad Vibes.mp3"
+},
+"75":{
+    "title": "Self Affray",
+    "artist": "fantompower",
+    "album": "infinite (i)",
+    "track": "7",
+    "year": "",
+    "img_src": "./songs_images/Self Affray_Cover (front)_e.jpg",
+    "src": "./songs/Self Affray.mp3"
+},
+"76":{
+    "title": "Show and Prove",
+    "artist": "Es-K",
+    "album": "Trust The Process",
+    "track": "22",
+    "year": "",
+    "img_src": "./songs_images/Show and Prove_Cover (front)_e.jpg",
+    "src": "./songs/Show and Prove.mp3"
+},
+"77":{
+    "title": "sincerely",
+    "artist": " yours",
+    "album": "Nohidea",
+    "track": "osho",
+    "year": "2",
+    "img_src": "./songs_images/sincerely, yours_Cover (front)_e.jpg",
+    "src": "./songs/sincerely.mp3"
+},
+"78":{
+    "title": "sleep static",
+    "artist": "luvwn",
+    "album": "sleep static",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/sleep static_Cover (front)_e.jpg",
+    "src": "./songs/sleep static.mp3"
+},
+"79":{
+    "title": "Snow & Sand",
+    "artist": "j'san",
+    "album": " Epektase",
+    "track": "1 Am. Study Session",
+    "year": "8",
+    "img_src": "./songs_images/Snow & Sand_Cover (front)_e.jpg",
+    "src": "./songs/Snow & Sand.mp3"
+},
+"80":{
+    "title": "Snowman",
+    "artist": "WYS",
+    "album": "1 Am. Study Session",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Snowman_Cover (front)_e.jpg",
+    "src": "./songs/Snowman.mp3"
+},
+"81":{
+    "title": "Space Cadet",
+    "artist": "Philanthrope",
+    "album": " Sleepy Fish",
+    "track": "Chillhop Daydreams 2",
+    "year": "1",
+    "img_src": "./songs_images/Space Cadet_Cover (front)_e.jpg",
+    "src": "./songs/Space Cadet.mp3"
+},
+"82":{
+    "title": "Stay Awake",
+    "artist": "Jennifer Flores",
+    "album": " Shiloh Dynasty",
+    "track": " LofiCentral",
+    "year": "All My Love",
+    "img_src": "./songs_images/Stay Awake_Cover (front)_e.jpg",
+    "src": "./songs/Stay Awake.mp3"
+},
+"83":{
+    "title": "Sunday Afternoon",
+    "artist": "Oatmello",
+    "album": "Imperfections",
+    "track": "3",
+    "year": "",
+    "img_src": "./songs_images/Sunday Afternoon_Cover (front)_e.jpg",
+    "src": "./songs/Sunday Afternoon.mp3"
+},
+"84":{
+    "title": "this girl",
+    "artist": "Elijah Who",
+    "album": "Gentle Boy",
+    "track": "4",
+    "year": "",
+    "img_src": "./songs_images/this girl_Cover (front)_e.jpg",
+    "src": "./songs/this girl.mp3"
+},
+"85":{
+    "title": "Topaz",
+    "artist": "Oatmello",
+    "album": " Cloudchord",
+    "track": "Diamonds",
+    "year": "5",
+    "img_src": "./songs_images/Topaz_Cover (front)_e.jpg",
+    "src": "./songs/Topaz.mp3"
+},
+"86":{
+    "title": "trust u",
+    "artist": "Monty Datta",
+    "album": " Kehard",
+    "track": "trust u",
+    "year": "1",
+    "img_src": "./songs_images/trust u_Cover (front)_e.jpg",
+    "src": "./songs/trust u.mp3"
+},
+"87":{
+    "title": "walk but in a garden",
+    "artist": "Llusion",
+    "album": "walk but in a garden",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/walk but in a garden_Cover (front)_e.jpg",
+    "src": "./songs/walk but in a garden.mp3"
+},
+"88":{
+    "title": "warm breeze",
+    "artist": "chief.",
+    "album": "today",
+    "track": "3",
+    "year": "",
+    "img_src": "./songs_images/warm breeze_Cover (front)_e.jpg",
+    "src": "./songs/warm breeze.mp3"
+},
+"89":{
+    "title": "We Let Go",
+    "artist": "fantompower",
+    "album": "infinite (i)",
+    "track": "3",
+    "year": "",
+    "img_src": "./songs_images/We Let Go_Cover (front)_e.jpg",
+    "src": "./songs/We Let Go.mp3"
+},
+"90":{
+    "title": "Why",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "6",
+    "year": "",
+    "img_src": "./songs_images/Why_Cover (front)_e.jpg",
+    "src": "./songs/Why.mp3"
+},
+"91":{
+    "title": "Wish I Was Better",
+    "artist": "Kina",
+    "album": " yaeow",
+    "track": "Wish I Was Better",
+    "year": "1",
+    "img_src": "./songs_images/Wish I Was Better_Cover (front)_e.jpg",
+    "src": "./songs/Wish I Was Better.mp3"
+},
+"92":{
+    "title": "Wish You Were Mine",
+    "artist": "Sarcastic Sounds",
+    "album": "1 Am. Study Session",
+    "track": "14",
+    "year": "",
+    "img_src": "./songs_images/Wish You Were Mine_Cover (front)_e.jpg",
+    "src": "./songs/Wish You Were Mine.mp3"
+},
+"93":{
+    "title": "Wishes",
+    "artist": "eyeroze",
+    "album": "Heartless",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Wishes_Cover (front)_e.jpg",
+    "src": "./songs/Wishes.mp3"
+},
+"94":{
+    "title": "With Somebody Else",
+    "artist": "Monty Datta",
+    "album": " Dhan",
+    "track": "With Somebody Else",
+    "year": "1",
+    "img_src": "./songs_images/With Somebody Else_Cover (front)_e.jpg",
+    "src": "./songs/With Somebody Else.mp3"
+},
+"95":{
+    "title": "Yesterday",
+    "artist": "chief.",
+    "album": "Chillhop Daydreams",
+    "track": "2",
+    "year": "",
+    "img_src": "./songs_images/Yesterday_Cover (front)_e.jpg",
+    "src": "./songs/Yesterday.mp3"
+},
+"96":{
+    "title": "Yoga",
+    "artist": "Llusion",
+    "album": "Yoga",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Yoga_Cover (front)_e.jpg",
+    "src": "./songs/Yoga.mp3"
+},
+"97":{
+    "title": "Young Dumb & Broke",
+    "artist": "90degrees",
+    "album": "Young Dumb & Broke",
+    "track": "1",
+    "year": "",
+    "img_src": "./songs_images/Young Dumb & Broke_Cover (front)_e.jpg",
+    "src": "./songs/Young Dumb & Broke.mp3"
+},
+"98":{
+    "title": "Your Voice",
+    "artist": "Monty Datta",
+    "album": " Shiloh Dynasty",
+    "track": "Your Voice",
+    "year": "1",
+    "img_src": "./songs_images/Your Voice_Cover (front)_e.jpg",
+    "src": "./songs/Your Voice.mp3"
+},
+"ids": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98"
+  ]
+}
