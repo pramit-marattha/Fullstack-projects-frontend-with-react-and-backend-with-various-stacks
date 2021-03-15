@@ -1,0 +1,13 @@
+{
+  "appId": "dev.pages.merchandisehunt",
+  "appName": "Merchandise-hunt",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
