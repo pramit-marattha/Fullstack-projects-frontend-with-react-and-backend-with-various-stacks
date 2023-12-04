@@ -1,4 +1,5 @@
 import React from "react";
+import { sanitizeUrl } from "@braintree/sanitize-url";
 
 const CardComp = (props) => {
   const backImageStyle = {
@@ -9,11 +10,12 @@ const CardComp = (props) => {
   };
 
   const mappedCardData = props.cards.map((card, i) => {
+    const safeHref = sanitizeUrl(card.linkHref);
     return (
       <div key={i} className="bookmarkCard">
         <div className="bookmarkCardImage" style={backImageStyle} />
         <div className="bookmarkCardLink">
-          <a target="_blank" rel="noopener noreferrer" href={card.linkHref}>
+          <a target="_blank" rel="noopener noreferrer" href={safeHref}>
             {card.linkName}
           </a>
         </div>
